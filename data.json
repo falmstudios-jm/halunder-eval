@@ -3,12 +3,12 @@
     "GPT-5.4 RAG"
   ],
   "scale": {
-    "1": "Unusable",
-    "2": "Major mistake",
-    "3": "Acceptable",
-    "4": "Good",
-    "5": "Flawless",
-    "6": "Perfect"
+    "1": "Unusable - Translation is wrong or incomprehensible",
+    "2": "Major mistake - Significant errors that change meaning",
+    "3": "Acceptable - Understandable but with noticeable errors",
+    "4": "Good - Minor issues only, overall correct",
+    "5": "Flawless - No errors detected, natural language",
+    "6": "Perfect - Exceeds expectations, very natural/idiomatic"
   },
   "sentences": [
     {
@@ -17,7 +17,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, ho gungt di?"
+        "GPT-5.4 RAG": "Holloh, ho gungt deät di?"
       }
     },
     {
@@ -26,7 +26,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Nä es deät oaber gemüütli."
+        "GPT-5.4 RAG": "Glik es allet weer gud."
       }
     },
     {
@@ -35,7 +35,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik leef di."
+        "GPT-5.4 RAG": "Nä es deät oaber gemüütli."
       }
     },
     {
@@ -44,7 +44,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik leef Lun."
+        "GPT-5.4 RAG": "Wi tau passe reälik gud tuhop."
       }
     },
     {
@@ -53,7 +53,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Freeliges Naidjooar!"
+        "GPT-5.4 RAG": "Ik leef Lun"
       }
     },
     {
@@ -62,7 +62,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Alles Gud tu Gebuursdai"
+        "GPT-5.4 RAG": "Holloh, hu geit't?"
       }
     },
     {
@@ -71,7 +71,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Mi gungt deät gud."
+        "GPT-5.4 RAG": "Alles Gud tu Gebuursdai"
       }
     },
     {
@@ -80,7 +80,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Deät dait mi wai."
+        "GPT-5.4 RAG": "Mi gungt deät gud."
       }
     },
     {
@@ -89,7 +89,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Hartlik Glookwinsk tu Gebuursdai"
+        "GPT-5.4 RAG": "Deät dait mi wai."
       }
     },
     {
@@ -98,7 +98,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ho wart deät Weder dollung?"
+        "GPT-5.4 RAG": "Ik mai di"
       }
     },
     {
@@ -107,7 +107,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Deät Projäkt skaft en Rüm, dear üüs Kinj vielleicht iin Doag ool Dagböker of Breewen fan de Dakböön ferstun kön."
+        "GPT-5.4 RAG": "Ik hoa di leef."
       }
     },
     {
@@ -116,7 +116,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ho hit de Kläow fan Lun?"
+        "GPT-5.4 RAG": "Ho es' et?"
       }
     },
     {
@@ -125,7 +125,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wi froie üs ap djim."
+        "GPT-5.4 RAG": "Ik hoa hongeri."
       }
     },
     {
@@ -134,7 +134,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wi set iip en Beenk bi de Brai."
+        "GPT-5.4 RAG": "Deät as en Test"
       }
     },
     {
@@ -143,7 +143,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik gung dollung hen tu toophoaln."
+        "GPT-5.4 RAG": "di Hin wel ni iit"
       }
     },
     {
@@ -152,7 +152,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Gud'n Dai, ho gungt et jo?"
+        "GPT-5.4 RAG": "Holloh, ik hit"
       }
     },
     {
@@ -161,7 +161,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik ben Fraidai toop med miin Hun noa Cuxhoben foaren en keem dan ierst jister noa Helgelun weer turech. Et hat rech fel schüket."
+        "GPT-5.4 RAG": "Djo es en roor Dai."
       }
     },
     {
@@ -170,7 +170,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "En Biir, bidde."
+        "GPT-5.4 RAG": "Ho wart deät Weder dollung?"
       }
     },
     {
@@ -179,7 +179,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wel wi noa de Hallem?"
+        "GPT-5.4 RAG": "Wat gungt ap"
       }
     },
     {
@@ -188,7 +188,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Deäi es wundervol Wedder."
+        "GPT-5.4 RAG": "Gud'n Flooem Elias,"
       }
     },
     {
@@ -197,7 +197,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik fiile mi ni gud."
+        "GPT-5.4 RAG": "Wan wel wi iit gung?"
       }
     },
     {
@@ -206,7 +206,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wearom komt Damper dollung ni?"
+        "GPT-5.4 RAG": "Ik fik dii Mem."
       }
     },
     {
@@ -215,7 +215,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik ben bliid."
+        "GPT-5.4 RAG": "Moak de Deer tu."
       }
     },
     {
@@ -224,7 +224,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Gud'n Moorn, has di hongeri? Ik kön en Ei kake."
+        "GPT-5.4 RAG": "Ik ben Simon. Ik küm fan Mittel."
       }
     },
     {
@@ -233,7 +233,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Deät Wedder es roor."
+        "GPT-5.4 RAG": "Ik et gearn Rinstek."
       }
     },
     {
@@ -242,7 +242,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik mut noa de Oarbooid."
+        "GPT-5.4 RAG": "Holloh leew Campingfrünj"
       }
     },
     {
@@ -251,7 +251,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik mut hen uun de Skinn."
+        "GPT-5.4 RAG": "Hai, ho gungt 'et?"
       }
     },
     {
@@ -260,7 +260,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wa djef 'et dolung tu iit?"
+        "GPT-5.4 RAG": "Ho es dA?"
       }
     },
     {
@@ -269,7 +269,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wi foar noa Lun."
+        "GPT-5.4 RAG": "Miin Neem es"
       }
     },
     {
@@ -278,7 +278,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Hu wen ik hiir de baste Kniipers?"
+        "GPT-5.4 RAG": "Ho hit de Kläow fan Lun?"
       }
     },
     {
@@ -287,7 +287,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, miin Neem es"
+        "GPT-5.4 RAG": "Moak et gud"
       }
     },
     {
@@ -296,7 +296,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, ho hit di?"
+        "GPT-5.4 RAG": "De Oawersetter as ja en kool Idee."
       }
     },
     {
@@ -305,7 +305,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wat has di düsdeeg feer?"
+        "GPT-5.4 RAG": "Di Man kuset de Wüf."
       }
     },
     {
@@ -314,7 +314,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Dollung skint di Sen."
+        "GPT-5.4 RAG": "Ik ben bliid."
       }
     },
     {
@@ -323,7 +323,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ho djiir es de Foort no Helgolun?"
+        "GPT-5.4 RAG": "En Buk fan de Lun, de eedemt."
       }
     },
     {
@@ -332,7 +332,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Hu fel Uhr es't?"
+        "GPT-5.4 RAG": "Wi froie üs ap djim."
       }
     },
     {
@@ -341,7 +341,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ho küm ik noa de Kark?"
+        "GPT-5.4 RAG": "Stemt oawerhaup ni."
       }
     },
     {
@@ -350,7 +350,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ho fel hat deät Booat kost?"
+        "GPT-5.4 RAG": "Gud'n Flooem, Herbert."
       }
     },
     {
@@ -359,7 +359,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Gud'n Flooem, ho has di sleäpen?"
+        "GPT-5.4 RAG": "Wel wi noa de Hallem?"
       }
     },
     {
@@ -368,7 +368,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik gung noa de Hoawen."
+        "GPT-5.4 RAG": "... en 'n Böddel fol Rum."
       }
     },
     {
@@ -377,7 +377,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Welkoam iip Lun."
+        "GPT-5.4 RAG": "Ik fiile mi ni gud."
       }
     },
     {
@@ -386,7 +386,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ick wull bitle en Oolbrüüdje."
+        "GPT-5.4 RAG": "Miin leefst Liuw"
       }
     },
     {
@@ -395,7 +395,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wel wi toop lear?"
+        "GPT-5.4 RAG": "Deät past Sven"
       }
     },
     {
@@ -404,7 +404,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wat iit wi dan dolung?"
+        "GPT-5.4 RAG": "Holloh, liiwe Söster!"
       }
     },
     {
@@ -413,7 +413,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wan djef 'et dan tu drinken?"
+        "GPT-5.4 RAG": "Dat has di süperb moaket."
       }
     },
     {
@@ -422,7 +422,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, ik ben Emily."
+        "GPT-5.4 RAG": "Holloh ik ben"
       }
     },
     {
@@ -431,7 +431,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Foor wi mooern noa de Hallem?"
+        "GPT-5.4 RAG": "'n Biir, bidde"
       }
     },
     {
@@ -440,7 +440,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Gud In. Ik froie mi ap de Ineten."
+        "GPT-5.4 RAG": "Hool di no'ns gud fast, min Jung."
       }
     },
     {
@@ -449,7 +449,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik hoa di liif."
+        "GPT-5.4 RAG": "Gud'n Dai, hu geit et jem?"
       }
     },
     {
@@ -458,7 +458,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Miin Motorrad es uungungen."
+        "GPT-5.4 RAG": "Riep fer deät Lun."
       }
     },
     {
@@ -467,7 +467,7 @@
       "word_count": 8,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Gud'n Dai, tau Rinstekken, bidde."
+        "GPT-5.4 RAG": "Dank, dat jam uk Info-Posts en Like jew!"
       }
     },
     {
@@ -476,7 +476,7 @@
       "word_count": 8,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik wenske di en gurt Noacht."
+        "GPT-5.4 RAG": "Wi set iip en Beonk bi de Brai."
       }
     },
     {
@@ -485,7 +485,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ii Lun es en faini Insel."
+        "GPT-5.4 RAG": "Wearom komt Damper dollung ni?"
       }
     },
     {
@@ -494,7 +494,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, ik hit Julian en küm fan Mainz."
+        "GPT-5.4 RAG": "Ik gung henthüs."
       }
     },
     {
@@ -503,7 +503,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "De Künner soamele Musseler bi Strun en loache lood."
+        "GPT-5.4 RAG": "Deät as hüt roor Wedder."
       }
     },
     {
@@ -512,7 +512,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik wel gearn en Ligplak ön de Marina fan Lun kreeg."
+        "GPT-5.4 RAG": "Ik mut ap Klo."
       }
     },
     {
@@ -521,7 +521,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Dollung fart keen Feer, wiel 'et tu stark stürmt."
+        "GPT-5.4 RAG": "Ik snaak Halunder."
       }
     },
     {
@@ -530,7 +530,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Ik küm üt Köllen en wuune nä uun de Nederlannen."
+        "GPT-5.4 RAG": "Di best duaf."
       }
     },
     {
@@ -539,7 +539,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Holloh! Ik fin deät en Stoad, dat deät disse Sid giit, am de Spraak to red."
+        "GPT-5.4 RAG": "Ik gung i"
       }
     },
     {
@@ -548,7 +548,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG": "Wi hoa en Hüs iip 't Bopperlun. Welkoam bi is dren."
+        "GPT-5.4 RAG": "Ik greeet di"
       }
     },
     {
@@ -557,7 +557,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik ben Fesker en brik no en poor stark Hun'n, am de Forellen iintuhoalen. Djef uk gud Jül!"
+        "GPT-5.4 RAG": "Oaber di bes groot en ik ben letj. Deät stamt."
       }
     },
     {
@@ -566,7 +566,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Gud'n Flooem, ik wenske di en faini Doog"
+        "GPT-5.4 RAG": "Beseek üs iin Huus Marinas iin de halunder Südhoben en entdeek de Faalfoold."
       }
     },
     {
@@ -575,7 +575,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik moake alle Moorn en Spatseergung bi de See."
+        "GPT-5.4 RAG": "Has di 'et di Man sooit? De Man es groot. Es deät deät Huas?"
       }
     },
     {
@@ -584,7 +584,7 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, ik küm fan Lun oaber wun iip de Fasteelun."
+        "GPT-5.4 RAG": "De Hoofdtwäk fan de dear Doatenopnoam es de Moak fan en Langtiidstudi tu Lun, tu Europa en tu de helgelunersk Gefööl fan Uunofhonglikhaid."
       }
     },
     {
@@ -593,7 +593,7 @@
       "word_count": 20,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Uwe hat weer en Sluup. Hi wür med jam om de Hallig foaren."
+        "GPT-5.4 RAG": "Deät Projekt skafft en Rüm, diar üüs Künjken flicht en Dai ool Doagbüker of Breewen fan 'e Bön verstaan kön."
       }
     },
     {
@@ -602,7 +602,7 @@
       "word_count": 42,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik wul gearn Halunder lear, deer't me trurig moaket, dat de Spraak worskynelk ütstiarf skel. Dja es en spannend Relikt fan fergaan Tid, en her Behool es me wichti."
+        "GPT-5.4 RAG": "Miin Ooti Bertha wuunt uun't Bopperlun, neeben de Kark. Dji hat en sköön Goorn en uk en Strunkoorb. Dear seät dji dan altiid med her letj wit Hun, Teddy. So en sööten. Ik lüf miin Ooti, dji hat do fel tu ferteljen."
       }
     },
     {
@@ -611,7 +611,7 @@
       "word_count": 34,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Wan es miin Iit kloor? Ik hee Hunger!"
+        "GPT-5.4 RAG": "Dear wear iaanmoal en letj Djong, de heet Häwelmann. Des nachts sleäp hi en en Rullenbed en uk des noameddags, wan hi mööd wear; wan hi oaber ni mööd wear, soo mut hi fon siin .ut"
       }
     },
     {
@@ -620,7 +620,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik wear letj Djooar iip Lun. En skitter Eelun."
+        "GPT-5.4 RAG": "Ferlech kanst di di no dearan herinre... Ouwel, di bist no tu jung deerfeer."
       }
     },
     {
@@ -629,7 +629,7 @@
       "word_count": 17,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, ik küm üt Södjütskland en ik froie mi hiir tu wees'n."
+        "GPT-5.4 RAG": "Lat üs loopen! Deät wart en Stoad! Soo hool 't man bi! Deät sücht gud üt! Weer soo glis't, kümt iin't Deel!"
       }
     },
     {
@@ -638,7 +638,7 @@
       "word_count": 11,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Wi hoa en heel schtjülli Wanderung deer de Barge den'n."
+        "GPT-5.4 RAG": "Wel hi wel fel Djül haa, hest di en betjen wat tu iitern?"
       }
     },
     {
@@ -647,7 +647,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik lew gearn iip Lun. De Rais es soms hiel stormi."
+        "GPT-5.4 RAG": "En gud'n Flooem, has di hongeri? Ik kön en Oi kake."
       }
     },
     {
@@ -656,7 +656,7 @@
       "word_count": 26,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Holloh. Ik wel nä dan tu fiske gung. Bist du dear bi?"
+        "GPT-5.4 RAG": "De isrelisk Amt Cogat, wat för palästinensisk Angelegenheiten tostaand es, skel hooge Vertreder faan't Gesundheitswesen iin de Gazastreifen tautseggt hoa, deät et deät Fulk Ünnerbringungsuuren bih süden faan't Gebiet tu Ferföögung stalt."
       }
     },
     {
@@ -665,7 +665,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Wuar gungt deät tu de uur Supermarkt en wan begent hiar de Gudstjänst?"
+        "GPT-5.4 RAG": "Oori wat loos hiir. Bi soo fel Gratseilers loont hem en Uutfloch."
       }
     },
     {
@@ -674,7 +674,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik kan Halunder snake. Det es en ool friisk Spreek."
+        "GPT-5.4 RAG": "Wan best di dollung apstun? En wan gung di weer tu Bäd?"
       }
     },
     {
@@ -683,7 +683,7 @@
       "word_count": 24,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik wus do heel ni, dat dees Spraak dear as. Nu frog ik mi, hu dees wel klinge mag?"
+        "GPT-5.4 RAG": "Ik ben Fraidai toop med miin Hun noa Cuxhoben foaren en keem dan ierst jister noa Helgelun weer turop. Et hat rech fel skükelt."
       }
     },
     {
@@ -692,7 +692,7 @@
       "word_count": 11,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Üs Opa winket med siin Kwap"
+        "GPT-5.4 RAG": "Uk regionale Grappen oawer Autonomie en Uunofhengighaid wart froaget."
       }
     },
     {
@@ -701,7 +701,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Deät as ja rechti klos!"
+        "GPT-5.4 RAG": "Gud'n Moorn Birgit, ik heep, dat dü dolung en faini Dai hest."
       }
     },
     {
@@ -710,7 +710,7 @@
       "word_count": 21,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Hool di no'ns gud fast, min Jung."
+        "GPT-5.4 RAG": "Literatuur bediidet uk, Toostand tu kann en tu benemmen. Huu dearhen kit en swiget, lüpt Gefoor, de Unwoorhaid deät Uurd tu reden."
       }
     },
     {
@@ -719,7 +719,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Cloas, dii ni ap. Kämp fiider. Wi san bi di en help di."
+        "GPT-5.4 RAG": "Welkoam tu de Umfraag tu de regionoal, nationoal en euroopäisk Identiteet fan Lun"
       }
     },
     {
@@ -728,7 +728,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Moin, ho gungt 'et di? Ik ben ap 'e Tiet recht mööd."
+        "GPT-5.4 RAG": "Gud'n Moorn Burcu, ik heepe dat dü gud ütsoolpen best"
       }
     },
     {
@@ -737,7 +737,7 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Gud Noacht, miin letj Faini, sloap gud en druum swet."
+        "GPT-5.4 RAG": "Per Definition kan Omfroagen alle Arten fan Doaten önthool."
       }
     },
     {
@@ -746,7 +746,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, ik hit Lena. Ik gung am Oabend med min Hun Susi spazieren."
+        "GPT-5.4 RAG": "Oawer de apenboor Meenung as blooat heel wenig bekent."
       }
     },
     {
@@ -755,7 +755,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Glik es allet weer gud."
+        "GPT-5.4 RAG": "Hiir es deät uk fain en sunni dollung. Mama en Paul san ön't Goornrausch."
       }
     },
     {
@@ -764,7 +764,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Wi al tau passe reälik gud tuup."
+        "GPT-5.4 RAG": "Djam of de der uun en struktuuriert, gemeensoom en maschiinleesboor Formaat."
       }
     },
     {
@@ -773,7 +773,7 @@
       "word_count": 13,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Wan wel wi iit?"
+        "GPT-5.4 RAG": "Di iinjewen Iipskreft es ni korrekt. Kontroliir dji bitte jo iinjeew iip Tipfeeler."
       }
     },
     {
@@ -782,7 +782,7 @@
       "word_count": 29,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Mook de Deer tu."
+        "GPT-5.4 RAG": "Halunder es ni blooat en Spreek, man tugliek uk Kultur en Identiteet fan en Gemenskup, diar al hunners Johr ool es. En ööders üs aal uur frasche Dialekten es Halunder werkelk en aiinständi Spreek."
       }
     },
     {
@@ -791,7 +791,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik gung henthüs."
+        "GPT-5.4 RAG": "Und auf Helgoland in all den Jahren, die ohne neue junge Helgoländer vergingen, zu wünschen."
       }
     },
     {
@@ -800,7 +800,7 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Wan best di dollung apstun? En wan gungst di weer tu Bäd?"
+        "GPT-5.4 RAG": "Wi froie is machti, dat ii Poost bi djam ankimen as. Haatlike Grööten weer tu djam en noa Schwerin."
       }
     },
     {
@@ -809,7 +809,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ik koop en nais Handy."
+        "GPT-5.4 RAG": "De leäste küd ik sogoor sönner Oawersetter ferstun. Halunder es goar ni soo sweer."
       }
     },
     {
@@ -818,7 +818,7 @@
       "word_count": 22,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "De Oawerfeller as dja en kuul Idee."
+        "GPT-5.4 RAG": "As Serhii K. am Fraidai tu de Haftrichter bi de Gericht in Bologna brocht wur, dreeg hi Handschellen en wur fan tree Polizisten begleed."
       }
     },
     {
@@ -827,7 +827,7 @@
       "word_count": 21,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Ferlech kanst di di no dearan herinre... Ouwel, di best no tu jung deerfeer."
+        "GPT-5.4 RAG": "Ruu! Med deäs Snük maak ik de hiili Stiftingskommers tuup fan de Grünj fan de Ferialis Helgolandia feer tumlik nüi ei em Johr ap!"
       }
     },
     {
@@ -836,7 +836,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Stemt oawerhaup ni."
+        "GPT-5.4 RAG": "Sni falt loangsoam, wan de Win üm de Haiser huilt."
       }
     },
     {
@@ -845,7 +845,7 @@
       "word_count": 23,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Dat has di süper moaket."
+        "GPT-5.4 RAG": "Liiwste Dochter, liiwer Swiigerseen, wi winske iük Leew en Luk for iü jüünsoom Tokunft. Aal Tied en wid Haat en en kloor Horizont"
       }
     },
     {
@@ -854,7 +854,7 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Miin Oot Bertha wuunt uun't Bopperlun, deer neäwen de Kark. Dji hat en sköön Goorn med grate Blöm en en Strunkoorb."
+        "GPT-5.4 RAG": "Weer hoa Ooinen fan de fon de Hamas wechsleepten Giseln in Tel Aviv demonstreert – deep skokt fon näi Videos."
       }
     },
     {
@@ -863,7 +863,7 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Wi mai Kuuk gearn liid!"
+        "GPT-5.4 RAG": "Ik nem de tau Böddel en dan no Sukersirup."
       }
     },
     {
@@ -872,7 +872,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Nä kan ja niks mear skeefgung!"
+        "GPT-5.4 RAG": "Ians tau tree fjuur fiif söks seäben acht neägen tain"
       }
     },
     {
@@ -881,7 +881,7 @@
       "word_count": 18,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Hu ool bes di?"
+        "GPT-5.4 RAG": "Green es deät Lun, rooad es de Kant, wit es de Sand, deät sen de Farben fan Helgolun"
       }
     },
     {
@@ -890,7 +890,7 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Halunder wart iip Lun snaket."
+        "GPT-5.4 RAG": "Gude Noacht, miin letj Faini, sleäp gud en dreem swet"
       }
     },
     {
@@ -899,7 +899,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Holloh, hoo wear diin Dai?"
+        "GPT-5.4 RAG": "Ik hoa mi en faini Iir koft, en gülden Rolex..."
       }
     },
     {
@@ -908,7 +908,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG": "Mooern as Fut-boal. Welk as dear bi?"
+        "GPT-5.4 RAG": "Küm, lat is no’ns en Beer drink en Oabendbrood iit."
       }
     }
   ]
