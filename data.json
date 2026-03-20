@@ -1,7 +1,6 @@
 {
   "models": [
-    "Hybrid (Dict+GPT-5.4)",
-    "GPT-5.4 RAG"
+    "Hybrid (Dict+GPT-5.4)"
   ],
   "scale": {
     "min": 1,
@@ -22,8 +21,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hallo, huu geit et di?",
-        "GPT-5.4 RAG": "Holloh, ho gungt di?"
+        "Hybrid (Dict+GPT-5.4)": "Hallo, huu geit et di?"
       }
     },
     {
@@ -32,8 +30,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Liksdenni as alles wider gud.",
-        "GPT-5.4 RAG": "Nä es deät oaber gemüütli."
+        "Hybrid (Dict+GPT-5.4)": "Liksdenni as alles wider gud."
       }
     },
     {
@@ -42,8 +39,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Nu as et oaber gemüütli.",
-        "GPT-5.4 RAG": "Ik leef di."
+        "Hybrid (Dict+GPT-5.4)": "Nu as et oaber gemüütli."
       }
     },
     {
@@ -52,8 +48,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wi beed passe würkli gud tuhuup.",
-        "GPT-5.4 RAG": "Ik leef Lun."
+        "Hybrid (Dict+GPT-5.4)": "Wi beed passe würkli gud tuhuup."
       }
     },
     {
@@ -62,8 +57,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik leefd Lun",
-        "GPT-5.4 RAG": "Freeliges Naidjooar!"
+        "Hybrid (Dict+GPT-5.4)": "Ik leefd Lun"
       }
     },
     {
@@ -72,8 +66,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hoolo, hu geit et?",
-        "GPT-5.4 RAG": "Alles Gud tu Gebuursdai"
+        "Hybrid (Dict+GPT-5.4)": "Hoolo, hu geit et?"
       }
     },
     {
@@ -82,8 +75,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ales Gud’ns tu Gobuursdai",
-        "GPT-5.4 RAG": "Mi gungt deät gud."
+        "Hybrid (Dict+GPT-5.4)": "Ales Gud’ns tu Gobuursdai"
       }
     },
     {
@@ -92,8 +84,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Mi geiht es gud",
-        "GPT-5.4 RAG": "Deät dait mi wai."
+        "Hybrid (Dict+GPT-5.4)": "Mi geiht es gud"
       }
     },
     {
@@ -102,8 +93,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Deät deiht mi wai.",
-        "GPT-5.4 RAG": "Hartlik Glookwinsk tu Gebuursdai"
+        "Hybrid (Dict+GPT-5.4)": "Deät deiht mi wai."
       }
     },
     {
@@ -112,8 +102,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik mag di",
-        "GPT-5.4 RAG": "Ho wart deät Weder dollung?"
+        "Hybrid (Dict+GPT-5.4)": "Ik mag di"
       }
     },
     {
@@ -122,8 +111,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik hee di lif",
-        "GPT-5.4 RAG": "Deät Projäkt skaft en Rüm, dear üüs Kinj vielleicht iin Doag ool Dagböker of Breewen fan de Dakböön ferstun kön."
+        "Hybrid (Dict+GPT-5.4)": "Ik hee di lif"
       }
     },
     {
@@ -132,8 +120,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hu as di?",
-        "GPT-5.4 RAG": "Ho hit de Kläow fan Lun?"
+        "Hybrid (Dict+GPT-5.4)": "Hu as di?"
       }
     },
     {
@@ -142,8 +129,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik hee Honger",
-        "GPT-5.4 RAG": "Wi froie üs ap djim."
+        "Hybrid (Dict+GPT-5.4)": "Ik hee Honger"
       }
     },
     {
@@ -152,8 +138,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Deät as en Test",
-        "GPT-5.4 RAG": "Wi set iip en Beenk bi de Brai."
+        "Hybrid (Dict+GPT-5.4)": "Deät as en Test"
       }
     },
     {
@@ -162,8 +147,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "de Buppi wel ni iit",
-        "GPT-5.4 RAG": "Ik gung dollung hen tu toophoaln."
+        "Hybrid (Dict+GPT-5.4)": "de Buppi wel ni iit"
       }
     },
     {
@@ -172,8 +156,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hålö, ik hait",
-        "GPT-5.4 RAG": "Gud'n Dai, ho gungt et jo?"
+        "Hybrid (Dict+GPT-5.4)": "Hålö, ik hait"
       }
     },
     {
@@ -182,8 +165,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Fandoag as en sköön Dai",
-        "GPT-5.4 RAG": "Ik ben Fraidai toop med miin Hun noa Cuxhoben foaren en keem dan ierst jister noa Helgelun weer turech. Et hat rech fel schüket."
+        "Hybrid (Dict+GPT-5.4)": "Fandoag as en sköön Dai"
       }
     },
     {
@@ -192,8 +174,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hu wurdt deät Wedder fandoag?",
-        "GPT-5.4 RAG": "En Biir, bidde."
+        "Hybrid (Dict+GPT-5.4)": "Hu wurdt deät Wedder fandoag?"
       }
     },
     {
@@ -202,8 +183,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wat geit ap",
-        "GPT-5.4 RAG": "Wel wi noa de Hallem?"
+        "Hybrid (Dict+GPT-5.4)": "Wat geit ap"
       }
     },
     {
@@ -212,8 +192,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Gud moorn Elias,",
-        "GPT-5.4 RAG": "Deäi es wundervol Wedder."
+        "Hybrid (Dict+GPT-5.4)": "Gud moorn Elias,"
       }
     },
     {
@@ -222,8 +201,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wan-iáár wel wi iit lef?",
-        "GPT-5.4 RAG": "Ik fiile mi ni gud."
+        "Hybrid (Dict+GPT-5.4)": "Wan-iáár wel wi iit lef?"
       }
     },
     {
@@ -232,8 +210,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik fik din Skriuwmutter",
-        "GPT-5.4 RAG": "Wearom komt Damper dollung ni?"
+        "Hybrid (Dict+GPT-5.4)": "Ik fik din Skriuwmutter"
       }
     },
     {
@@ -242,8 +219,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Mååke de Deer tu.",
-        "GPT-5.4 RAG": "Ik ben bliid."
+        "Hybrid (Dict+GPT-5.4)": "Mååke de Deer tu."
       }
     },
     {
@@ -252,8 +228,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik ben Simon. Ik küm üt Meddel",
-        "GPT-5.4 RAG": "Gud'n Moorn, has di hongeri? Ik kön en Ei kake."
+        "Hybrid (Dict+GPT-5.4)": "Ik ben Simon. Ik küm üt Meddel"
       }
     },
     {
@@ -262,8 +237,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik eet gern Rinstek",
-        "GPT-5.4 RAG": "Deät Wedder es roor."
+        "Hybrid (Dict+GPT-5.4)": "Ik eet gern Rinstek"
       }
     },
     {
@@ -272,8 +246,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hallo Leefd Campingfrünj",
-        "GPT-5.4 RAG": "Ik mut noa de Oarbooid."
+        "Hybrid (Dict+GPT-5.4)": "Hallo Leefd Campingfrünj"
       }
     },
     {
@@ -282,8 +255,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hei, wat geit?",
-        "GPT-5.4 RAG": "Ik mut hen uun de Skinn."
+        "Hybrid (Dict+GPT-5.4)": "Hei, wat geit?"
       }
     },
     {
@@ -292,8 +264,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "hu as deät",
-        "GPT-5.4 RAG": "Wa djef 'et dolung tu iit?"
+        "Hybrid (Dict+GPT-5.4)": "hu as deät"
       }
     },
     {
@@ -302,8 +273,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Min Neem as",
-        "GPT-5.4 RAG": "Wi foar noa Lun."
+        "Hybrid (Dict+GPT-5.4)": "Min Neem as"
       }
     },
     {
@@ -312,8 +282,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hu hääset de Kläow fon Lun?",
-        "GPT-5.4 RAG": "Hu wen ik hiir de baste Kniipers?"
+        "Hybrid (Dict+GPT-5.4)": "Hu hääset de Kläow fon Lun?"
       }
     },
     {
@@ -322,8 +291,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Mååk et gud",
-        "GPT-5.4 RAG": "Holloh, miin Neem es"
+        "Hybrid (Dict+GPT-5.4)": "Mååk et gud"
       }
     },
     {
@@ -332,8 +300,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "De Übersetter as ja en kuul Read.",
-        "GPT-5.4 RAG": "Holloh, ho hit di?"
+        "Hybrid (Dict+GPT-5.4)": "De Übersetter as ja en kuul Read."
       }
     },
     {
@@ -342,8 +309,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "De Man kist de Wüf.",
-        "GPT-5.4 RAG": "Wat has di düsdeeg feer?"
+        "Hybrid (Dict+GPT-5.4)": "De Man kist de Wüf."
       }
     },
     {
@@ -352,8 +318,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik ben glikelk.",
-        "GPT-5.4 RAG": "Dollung skint di Sen."
+        "Hybrid (Dict+GPT-5.4)": "Ik ben glikelk."
       }
     },
     {
@@ -362,8 +327,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "En Buk fan de Lun, diar atemt.",
-        "GPT-5.4 RAG": "Ho djiir es de Foort no Helgolun?"
+        "Hybrid (Dict+GPT-5.4)": "En Buk fan de Lun, diar atemt."
       }
     },
     {
@@ -372,8 +336,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wiar froie uun ’t iirs ap djüm.",
-        "GPT-5.4 RAG": "Hu fel Uhr es't?"
+        "Hybrid (Dict+GPT-5.4)": "Wiar froie uun ’t iirs ap djüm."
       }
     },
     {
@@ -382,8 +345,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Det tref't üüb'rhaupt ni tu.",
-        "GPT-5.4 RAG": "Ho küm ik noa de Kark?"
+        "Hybrid (Dict+GPT-5.4)": "Det tref't üüb'rhaupt ni tu."
       }
     },
     {
@@ -392,8 +354,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Gud moorn, Herbert.",
-        "GPT-5.4 RAG": "Ho fel hat deät Booat kost?"
+        "Hybrid (Dict+GPT-5.4)": "Gud moorn, Herbert."
       }
     },
     {
@@ -402,8 +363,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wel wi iip de Haik?",
-        "GPT-5.4 RAG": "Gud'n Flooem, ho has di sleäpen?"
+        "Hybrid (Dict+GPT-5.4)": "Wel wi iip de Haik?"
       }
     },
     {
@@ -412,8 +372,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "... an 'e Böddel ful Rum.",
-        "GPT-5.4 RAG": "Ik gung noa de Hoawen."
+        "Hybrid (Dict+GPT-5.4)": "... an 'e Böddel ful Rum."
       }
     },
     {
@@ -422,8 +381,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik fööl mi ni gud",
-        "GPT-5.4 RAG": "Welkoam iip Lun."
+        "Hybrid (Dict+GPT-5.4)": "Ik fööl mi ni gud"
       }
     },
     {
@@ -432,8 +390,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Min liifst Oisterfisker",
-        "GPT-5.4 RAG": "Ick wull bitle en Oolbrüüdje."
+        "Hybrid (Dict+GPT-5.4)": "Min liifst Oisterfisker"
       }
     },
     {
@@ -442,8 +399,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Det paast Sven",
-        "GPT-5.4 RAG": "Wel wi toop lear?"
+        "Hybrid (Dict+GPT-5.4)": "Det paast Sven"
       }
     },
     {
@@ -452,8 +408,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hallo, Leefd Söster!",
-        "GPT-5.4 RAG": "Wat iit wi dan dolung?"
+        "Hybrid (Dict+GPT-5.4)": "Hallo, Leefd Söster!"
       }
     },
     {
@@ -462,8 +417,7 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Deät fors du super moaket",
-        "GPT-5.4 RAG": "Wan djef 'et dan tu drinken?"
+        "Hybrid (Dict+GPT-5.4)": "Deät fors du super moaket"
       }
     },
     {
@@ -472,8 +426,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hallo ik ben",
-        "GPT-5.4 RAG": "Holloh, ik ben Emily."
+        "Hybrid (Dict+GPT-5.4)": "Hallo ik ben"
       }
     },
     {
@@ -482,8 +435,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "en Biir wa?",
-        "GPT-5.4 RAG": "Foor wi mooern noa de Hallem?"
+        "Hybrid (Dict+GPT-5.4)": "en Biir wa?"
       }
     },
     {
@@ -492,8 +444,7 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Halt di nons gud fast, min Djong.",
-        "GPT-5.4 RAG": "Gud In. Ik froie mi ap de Ineten."
+        "Hybrid (Dict+GPT-5.4)": "Halt di nons gud fast, min Djong."
       }
     },
     {
@@ -502,8 +453,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Gudn Dai, huu geit djam?",
-        "GPT-5.4 RAG": "Ik hoa di liif."
+        "Hybrid (Dict+GPT-5.4)": "Gudn Dai, huu geit djam?"
       }
     },
     {
@@ -512,8 +462,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Rüp för de Lun.",
-        "GPT-5.4 RAG": "Miin Motorrad es uungungen."
+        "Hybrid (Dict+GPT-5.4)": "Rüp för de Lun."
       }
     },
     {
@@ -522,8 +471,7 @@
       "word_count": 8,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Tenk, dåt ji uk infou-posts en laik geft!",
-        "GPT-5.4 RAG": "Gud'n Dai, tau Rinstekken, bidde."
+        "Hybrid (Dict+GPT-5.4)": "Tenk, dåt ji uk infou-posts en laik geft!"
       }
     },
     {
@@ -532,8 +480,7 @@
       "word_count": 8,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wi set ap en Beenk bi de Bräi",
-        "GPT-5.4 RAG": "Ik wenske di en gurt Noacht."
+        "Hybrid (Dict+GPT-5.4)": "Wi set ap en Beenk bi de Bräi"
       }
     },
     {
@@ -542,8 +489,7 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hooarom kümmt de Damper fandoag nit?",
-        "GPT-5.4 RAG": "Ii Lun es en faini Insel."
+        "Hybrid (Dict+GPT-5.4)": "Hooarom kümmt de Damper fandoag nit?"
       }
     },
     {
@@ -552,8 +498,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik gung tu Hüs.",
-        "GPT-5.4 RAG": "Holloh, ik hit Julian en küm fan Mainz."
+        "Hybrid (Dict+GPT-5.4)": "Ik gung tu Hüs."
       }
     },
     {
@@ -562,8 +507,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Fandoag as sköön Wedder",
-        "GPT-5.4 RAG": "De Künner soamele Musseler bi Strun en loache lood."
+        "Hybrid (Dict+GPT-5.4)": "Fandoag as sköön Wedder"
       }
     },
     {
@@ -572,8 +516,7 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik mut iip Skin",
-        "GPT-5.4 RAG": "Ik wel gearn en Ligplak ön de Marina fan Lun kreeg."
+        "Hybrid (Dict+GPT-5.4)": "Ik mut iip Skin"
       }
     },
     {
@@ -582,8 +525,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik spreke Halunder",
-        "GPT-5.4 RAG": "Dollung fart keen Feer, wiel 'et tu stark stürmt."
+        "Hybrid (Dict+GPT-5.4)": "Ik spreke Halunder"
       }
     },
     {
@@ -592,8 +534,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Dü bes fan Moit!",
-        "GPT-5.4 RAG": "Ik küm üt Köllen en wuune nä uun de Nederlannen."
+        "Hybrid (Dict+GPT-5.4)": "Dü bes fan Moit!"
       }
     },
     {
@@ -602,8 +543,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik gung i",
-        "GPT-5.4 RAG": "Holloh! Ik fin deät en Stoad, dat deät disse Sid giit, am de Spraak to red."
+        "Hybrid (Dict+GPT-5.4)": "Ik gung i"
       }
     },
     {
@@ -612,8 +552,7 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik grööt di",
-        "GPT-5.4 RAG": "Wi hoa en Hüs iip 't Bopperlun. Welkoam bi is dren."
+        "Hybrid (Dict+GPT-5.4)": "Ik grööt di"
       }
     },
     {
@@ -622,8 +561,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Oober dü bes groot en ik ben liir-liirletj. Deät stamt.",
-        "GPT-5.4 RAG": "Ik ben Fesker en brik no en poor stark Hun'n, am de Forellen iintuhoalen. Djef uk gud Jül!"
+        "Hybrid (Dict+GPT-5.4)": "Oober dü bes groot en ik ben liir-liirletj. Deät stamt."
       }
     },
     {
@@ -632,8 +570,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Besiiket uun ’t iirs im Hüs Marinas im Haluner Südhöben an entdekkt de Fölfaald.",
-        "GPT-5.4 RAG": "Gud'n Flooem, ik wenske di en faini Doog"
+        "Hybrid (Dict+GPT-5.4)": "Besiiket uun ’t iirs im Hüs Marinas im Haluner Südhöben an entdekkt de Fölfaald."
       }
     },
     {
@@ -642,8 +579,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Fors dü et de Man said? De Man as groot. As deät de Huas",
-        "GPT-5.4 RAG": "Ik moake alle Moorn en Spatseergung bi de See."
+        "Hybrid (Dict+GPT-5.4)": "Fors dü et de Man said? De Man as groot. As deät de Huas"
       }
     },
     {
@@ -652,8 +588,7 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "De hoodsak fon düsse dateerfååting as de ferfåårdang fon en langtiidstudi tu Lun, tu Europa an tu de lunerske Gefeel fon onafhenganghaid.",
-        "GPT-5.4 RAG": "Holloh, ik küm fan Lun oaber wun iip de Fasteelun."
+        "Hybrid (Dict+GPT-5.4)": "De hoodsak fon düsse dateerfååting as de ferfåårdang fon en langtiidstudi tu Lun, tu Europa an tu de lunerske Gefeel fon onafhenganghaid."
       }
     },
     {
@@ -662,8 +597,7 @@
       "word_count": 20,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Deäthiir Projekt skepet en Plats, deer üüs Bois flicht enes Dooges oolde Doogböker of Brewen faan't Dak verstön kön.",
-        "GPT-5.4 RAG": "Uwe hat weer en Sluup. Hi wür med jam om de Hallig foaren."
+        "Hybrid (Dict+GPT-5.4)": "Deäthiir Projekt skepet en Plats, deer üüs Bois flicht enes Dooges oolde Doogböker of Brewen faan't Dak verstön kön."
       }
     },
     {
@@ -672,8 +606,7 @@
       "word_count": 42,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Min Oot Bertha woont önj't Bopperlun, langs Sid fan de Kark. Dji hat en sköön Gooar an uk en Strunkoor. Deer sat dji dan altiid med her letj wit Hund, Teddy. Soo en süter. Ik lüf min Oti, dji hat doch fül tu ferteljen.",
-        "GPT-5.4 RAG": "Ik wul gearn Halunder lear, deer't me trurig moaket, dat de Spraak worskynelk ütstiarf skel. Dja es en spannend Relikt fan fergaan Tid, en her Behool es me wichti."
+        "Hybrid (Dict+GPT-5.4)": "Min Oot Bertha woont önj't Bopperlun, langs Sid fan de Kark. Dji hat en sköön Gooar an uk en Strunkoor. Deer sat dji dan altiid med her letj wit Hund, Teddy. Soo en süter. Ik lüf min Oti, dji hat doch fül tu ferteljen."
       }
     },
     {
@@ -682,8 +615,7 @@
       "word_count": 34,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Diar wiar iaanmoal en letj Djong, diar hiet Häwelmann. En Noachtemen sliep hi en en Rullenbädj an uk en Noameddag, wan hi mööd wiar; wan hi oaber ni mööd wiar, dan mut sin .ut hem.",
-        "GPT-5.4 RAG": "Wan es miin Iit kloor? Ik hee Hunger!"
+        "Hybrid (Dict+GPT-5.4)": "Diar wiar iaanmoal en letj Djong, diar hiet Häwelmann. En Noachtemen sliep hi en en Rullenbädj an uk en Noameddag, wan hi mööd wiar; wan hi oaber ni mööd wiar, dan mut sin .ut hem."
       }
     },
     {
@@ -692,8 +624,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Målik kans di noch deardjin teenk... Ofskoons, dü bes noch tu djong deerföör.",
-        "GPT-5.4 RAG": "Ik wear letj Djooar iip Lun. En skitter Eelun."
+        "Hybrid (Dict+GPT-5.4)": "Målik kans di noch deardjin teenk... Ofskoons, dü bes noch tu djong deerföör."
       }
     },
     {
@@ -702,8 +633,7 @@
       "word_count": 17,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Lüüs! Deät wart döl! Fiider soo! Deät sücht gud üt! Huu soo lacht, kümt bitluns!",
-        "GPT-5.4 RAG": "Holloh, ik küm üt Södjütskland en ik froie mi hiir tu wees'n."
+        "Hybrid (Dict+GPT-5.4)": "Lüüs! Deät wart döl! Fiider soo! Deät sücht gud üt! Huu soo lacht, kümt bitluns!"
       }
     },
     {
@@ -712,8 +642,7 @@
       "word_count": 11,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wel hi wel fül hoa haa, hest du en betjen wat iit?",
-        "GPT-5.4 RAG": "Wi hoa en heel schtjülli Wanderung deer de Barge den'n."
+        "Hybrid (Dict+GPT-5.4)": "Wel hi wel fül hoa haa, hest du en betjen wat iit?"
       }
     },
     {
@@ -722,8 +651,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Gud moorn, fors du Honger? Ik kööe en ii kukkeroatse.",
-        "GPT-5.4 RAG": "Ik lew gearn iip Lun. De Rais es soms hiel stormi."
+        "Hybrid (Dict+GPT-5.4)": "Gud moorn, fors du Honger? Ik kööe en ii kukkeroatse."
       }
     },
     {
@@ -732,8 +660,7 @@
       "word_count": 26,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "De israälsk Amt Cogat, wat för palästinensersaken tuständig as, haa hoograngig fertreders faan de gesundhäidswesen ön Gazastreif tausecht, de befolkning ünnerbringungsörden ön't süden faan't gebiet tu'r ferföging tu stäälen.",
-        "GPT-5.4 RAG": "Holloh. Ik wel nä dan tu fiske gung. Bist du dear bi?"
+        "Hybrid (Dict+GPT-5.4)": "De israälsk Amt Cogat, wat för palästinensersaken tuständig as, haa hoograngig fertreders faan de gesundhäidswesen ön Gazastreif tausecht, de befolkning ünnerbringungsörden ön't süden faan't gebiet tu'r ferföging tu stäälen."
       }
     },
     {
@@ -742,8 +669,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Oori nais wees hiar. Bi so fül gratseiglers loont sik en ütflucht.",
-        "GPT-5.4 RAG": "Wuar gungt deät tu de uur Supermarkt en wan begent hiar de Gudstjänst?"
+        "Hybrid (Dict+GPT-5.4)": "Oori nais wees hiar. Bi so fül gratseiglers loont sik en ütflucht."
       }
     },
     {
@@ -752,8 +678,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wan-iáár bes dü fandoag apstönjen? En wan-iáár gung dü wider bitluns Kui?",
-        "GPT-5.4 RAG": "Ik kan Halunder snake. Det es en ool friisk Spreek."
+        "Hybrid (Dict+GPT-5.4)": "Wan-iáár bes dü fandoag apstönjen? En wan-iáár gung dü wider bitluns Kui?"
       }
     },
     {
@@ -762,8 +687,7 @@
       "word_count": 24,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik ben am Fraidai tesammen med min Buppi no Trös feren en keem dan iáárs jisteren no Helgelun torog. Det hat arig fül skükelt.",
-        "GPT-5.4 RAG": "Ik wus do heel ni, dat dees Spraak dear as. Nu frog ik mi, hu dees wel klinge mag?"
+        "Hybrid (Dict+GPT-5.4)": "Ik ben am Fraidai tesammen med min Buppi no Trös feren en keem dan iáárs jisteren no Helgelun torog. Det hat arig fül skükelt."
       }
     },
     {
@@ -772,8 +696,7 @@
       "word_count": 11,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Uk regionoole ideen bi'trakt de autonomi an uunafhengigkait uk fraaget.",
-        "GPT-5.4 RAG": "Üs Opa winket med siin Kwap"
+        "Hybrid (Dict+GPT-5.4)": "Uk regionoole ideen bi'trakt de autonomi an uunafhengigkait uk fraaget."
       }
     },
     {
@@ -782,8 +705,7 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Gud morn Birgit, ik hoop, dåt dü fandoag en sköön Dai fors.",
-        "GPT-5.4 RAG": "Deät as ja rechti klos!"
+        "Hybrid (Dict+GPT-5.4)": "Gud morn Birgit, ik hoop, dåt dü fandoag en sköön Dai fors."
       }
     },
     {
@@ -792,8 +714,7 @@
       "word_count": 21,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Literatuur bedjut uk, tustanen tu bekan an tu benemmen. Huu henkikt an swiget, lupt gefäär, de unwäärhäid de wurd tu reden.",
-        "GPT-5.4 RAG": "Hool di no'ns gud fast, min Jung."
+        "Hybrid (Dict+GPT-5.4)": "Literatuur bedjut uk, tustanen tu bekan an tu benemmen. Huu henkikt an swiget, lupt gefäär, de unwäärhäid de wurd tu reden."
       }
     },
     {
@@ -802,8 +723,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Welkoam tu de Ofrååg uur de regionoal, nationoal an euroopisk Identitäät fan Helgelun.",
-        "GPT-5.4 RAG": "Cloas, dii ni ap. Kämp fiider. Wi san bi di en help di."
+        "Hybrid (Dict+GPT-5.4)": "Welkoam tu de Ofrååg uur de regionoal, nationoal an euroopisk Identitäät fan Helgelun."
       }
     },
     {
@@ -812,8 +732,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Gud moorn Burcu, ik hoop, dåt dü gud uutsluupen bes",
-        "GPT-5.4 RAG": "Moin, ho gungt 'et di? Ik ben ap 'e Tiet recht mööd."
+        "Hybrid (Dict+GPT-5.4)": "Gud moorn Burcu, ik hoop, dåt dü gud uutsluupen bes"
       }
     },
     {
@@ -822,8 +741,7 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Per Definition kan Omskrachten aal Arten fon Daten ni medstemme.",
-        "GPT-5.4 RAG": "Gud Noacht, miin letj Faini, sloap gud en druum swet."
+        "Hybrid (Dict+GPT-5.4)": "Per Definition kan Omskrachten aal Arten fon Daten ni medstemme."
       }
     },
     {
@@ -832,8 +750,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Üüb'er de öffentlik Meenung as oabers man heel men bekannt.",
-        "GPT-5.4 RAG": "Holloh, ik hit Lena. Ik gung am Oabend med min Hun Susi spazieren."
+        "Hybrid (Dict+GPT-5.4)": "Üüb'er de öffentlik Meenung as oabers man heel men bekannt."
       }
     },
     {
@@ -842,8 +759,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Hiar as et fandoag uk roor en schtjülli an senni. Memmi an Paul san ön't Goornraask.",
-        "GPT-5.4 RAG": "Glik es allet weer gud."
+        "Hybrid (Dict+GPT-5.4)": "Hiar as et fandoag uk roor en schtjülli an senni. Memmi an Paul san ön't Goornraask."
       }
     },
     {
@@ -852,8 +768,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "djam of drüdden en en struktureerd, gemiinsem en masjiinleesbar format.",
-        "GPT-5.4 RAG": "Wi al tau passe reälik gud tuup."
+        "Hybrid (Dict+GPT-5.4)": "djam of drüdden en en struktureerd, gemiinsem en masjiinleesbar format."
       }
     },
     {
@@ -862,8 +777,7 @@
       "word_count": 13,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "De iinjääwen Iipskref as ei korrekt. Wa? uurpriiw Sii her iinjääw ap tipfääler.",
-        "GPT-5.4 RAG": "Wan wel wi iit?"
+        "Hybrid (Dict+GPT-5.4)": "De iinjääwen Iipskref as ei korrekt. Wa? uurpriiw Sii her iinjääw ap tipfääler."
       }
     },
     {
@@ -872,8 +786,7 @@
       "word_count": 29,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Halunderi as nit bloot en Spröök, sonnern tauglik uk Kultur an Identitäät en iip hunners joor ual Gemeenskap. An uurs as aal uur fraske Dialekten as Halunderi warkelk en aiingstönj Spröök.",
-        "GPT-5.4 RAG": "Mook de Deer tu."
+        "Hybrid (Dict+GPT-5.4)": "Halunderi as nit bloot en Spröök, sonnern tauglik uk Kultur an Identitäät en iip hunners joor ual Gemeenskap. An uurs as aal uur fraske Dialekten as Halunderi warkelk en aiingstönj Spröök."
       }
     },
     {
@@ -882,8 +795,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "En iip Lunn uun alle iaars dai uune nai djooar Halunder gung tu wensken",
-        "GPT-5.4 RAG": "Ik gung henthüs."
+        "Hybrid (Dict+GPT-5.4)": "En iip Lunn uun alle iaars dai uune nai djooar Halunder gung tu wensken"
       }
     },
     {
@@ -892,8 +804,7 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Wi froie uun ’t iirs heel, dåt uur Pos bi djam aankimen as. Hartelk grööt weer tu djam an no Swerin.",
-        "GPT-5.4 RAG": "Wan best di dollung apstun? En wan gungst di weer tu Bäd?"
+        "Hybrid (Dict+GPT-5.4)": "Wi froie uun ’t iirs heel, dåt uur Pos bi djam aankimen as. Hartelk grööt weer tu djam an no Swerin."
       }
     },
     {
@@ -902,8 +813,7 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Deät leäs kon ik sogoor sönner Übersetter ferstön. So swoor as halunderi üs et gans ni.",
-        "GPT-5.4 RAG": "Ik koop en nais Handy."
+        "Hybrid (Dict+GPT-5.4)": "Deät leäs kon ik sogoor sönner Übersetter ferstön. So swoor as halunderi üs et gans ni."
       }
     },
     {
@@ -912,8 +822,7 @@
       "word_count": 22,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "As Serhii K. am Fraidai tu de Haftrichter am Gerech in Bologna brocht wurd, droog hi Handskelen an wurd faan drei Politsiisten begelait.",
-        "GPT-5.4 RAG": "De Oawerfeller as dja en kuul Idee."
+        "Hybrid (Dict+GPT-5.4)": "As Serhii K. am Fraidai tu de Haftrichter am Gerech in Bologna brocht wurd, droog hi Handskelen an wurd faan drei Politsiisten begelait."
       }
     },
     {
@@ -922,8 +831,7 @@
       "word_count": 21,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ruu! Mä däs Sluk apen ik de hiirtige Stiftingskomers weägen de Grünj fan de Ferialis Helgolandia foar tumlik naug ii'm Jaar!",
-        "GPT-5.4 RAG": "Ferlech kanst di di no dearan herinre... Ouwel, di best no tu jung deerfeer."
+        "Hybrid (Dict+GPT-5.4)": "Ruu! Mä däs Sluk apen ik de hiirtige Stiftingskomers weägen de Grünj fan de Ferialis Helgolandia foar tumlik naug ii'm Jaar!"
       }
     },
     {
@@ -932,8 +840,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Sni fäl oawerlang, wan de Win am de Hüsen huilt.",
-        "GPT-5.4 RAG": "Stemt oawerhaup ni."
+        "Hybrid (Dict+GPT-5.4)": "Sni fäl oawerlang, wan de Win am de Hüsen huilt."
       }
     },
     {
@@ -942,8 +849,7 @@
       "word_count": 23,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Leefk Foamel, liiwer Swiigerseen, wi wenske djüm Leefd an Glik för jü gemeensoom Tokunft. Aal Tid en wid Haat an en kloor Horizont",
-        "GPT-5.4 RAG": "Dat has di süper moaket."
+        "Hybrid (Dict+GPT-5.4)": "Leefk Foamel, liiwer Swiigerseen, wi wenske djüm Leefd an Glik för jü gemeensoom Tokunft. Aal Tid en wid Haat an en kloor Horizont"
       }
     },
     {
@@ -952,8 +858,7 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Fan nain hee de Naisen fon de bi Hamas ferslepten Giseln in Tel Awiw demunstreert – dip skokt fon nai Videos.",
-        "GPT-5.4 RAG": "Miin Oot Bertha wuunt uun't Bopperlun, deer neäwen de Kark. Dji hat en sköön Goorn med grate Blöm en en Strunkoorb."
+        "Hybrid (Dict+GPT-5.4)": "Fan nain hee de Naisen fon de bi Hamas ferslepten Giseln in Tel Awiw demunstreert – dip skokt fon nai Videos."
       }
     },
     {
@@ -962,8 +867,7 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik nem de tau Flasken an dan uk no Sukersirup",
-        "GPT-5.4 RAG": "Wi mai Kuuk gearn liid!"
+        "Hybrid (Dict+GPT-5.4)": "Ik nem de tau Flasken an dan uk no Sukersirup"
       }
     },
     {
@@ -972,8 +876,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "iáán tau tree foor fiuw sös seeben acht niigen tain",
-        "GPT-5.4 RAG": "Nä kan ja niks mear skeefgung!"
+        "Hybrid (Dict+GPT-5.4)": "iáán tau tree foor fiuw sös seeben acht niigen tain"
       }
     },
     {
@@ -982,8 +885,7 @@
       "word_count": 18,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Green as de Lun, rooad as de Kant, wit as de Sun, deät san de Farwen faan Lun",
-        "GPT-5.4 RAG": "Hu ool bes di?"
+        "Hybrid (Dict+GPT-5.4)": "Green as de Lun, rooad as de Kant, wit as de Sun, deät san de Farwen faan Lun"
       }
     },
     {
@@ -992,8 +894,7 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Gud’ns Noach, min Liifste, sleap gud an driim süit",
-        "GPT-5.4 RAG": "Halunder wart iip Lun snaket."
+        "Hybrid (Dict+GPT-5.4)": "Gud’ns Noach, min Liifste, sleap gud an driim süit"
       }
     },
     {
@@ -1002,8 +903,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Ik hee mi en sköön Iir köft, en gülden Rolex...",
-        "GPT-5.4 RAG": "Holloh, hoo wear diin Dai?"
+        "Hybrid (Dict+GPT-5.4)": "Ik hee mi en sköön Iir köft, en gülden Rolex..."
       }
     },
     {
@@ -1012,8 +912,7 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "Hybrid (Dict+GPT-5.4)": "Komm, lat uun ’t iirs nons en Biir slik en Noachtert iit",
-        "GPT-5.4 RAG": "Mooern as Fut-boal. Welk as dear bi?"
+        "Hybrid (Dict+GPT-5.4)": "Komm, lat uun ’t iirs nons en Biir slik en Noachtert iit"
       }
     }
   ]
