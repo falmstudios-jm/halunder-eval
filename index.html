@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Halunder Translation Evaluation</title>
+<style>
+:root {
+  --sea-dark: #1a3a5c;
+  --sea-mid: #2c5f8a;
+  --sea-light: #4a90c4;
+  --cliff-red: #c0392b;
+  --cliff-dark: #922b21;
+  --sand-white: #fdf6e3;
+  --sand-light: #fef9ef;
+  --text: #2c3e50;
+  --text-light: #7f8c8d;
+  --border: #dce6f0;
+  --success: #27ae60;
+  --warning: #f39c12;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--sand-white);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.header {
+  background: linear-gradient(135deg, var(--sea-dark), var(--sea-mid));
+  color: white;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+.header h1 {
+  font-size: 1.4rem;
+  margin-bottom: 0.25rem;
+  letter-spacing: 0.5px;
+}
+
+.header .subtitle {
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.progress-bar-container {
+  background: rgba(255,255,255,0.2);
+  border-radius: 10px;
+  height: 8px;
+  margin-top: 0.75rem;
+  overflow: hidden;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.progress-bar {
+  background: linear-gradient(90deg, var(--cliff-red), #e74c3c);
+  height: 100%;
+  border-radius: 10px;
+  transition: width 0.4s ease;
+}
+
+.progress-text {
+  font-size: 0.8rem;
+  margin-top: 0.35rem;
+  opacity: 0.9;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.nav-bar button {
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.3);
+  color: white;
+  padding: 0.35rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: background 0.2s;
+}
+
+.nav-bar button:hover { background: rgba(255,255,255,0.3); }
+.nav-bar button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.nav-bar .page-info {
+  font-size: 0.85rem;
+  min-width: 80px;
+  text-align: center;
+}
+
+/* Login screen */
+.login-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  padding: 2rem;
+}
+
+.login-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2.5rem;
+  max-width: 420px;
+  width: 100%;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  text-align: center;
+}
+
+.login-card h2 {
+  color: var(--sea-dark);
+  margin-bottom: 0.5rem;
+}
+
+.login-card p {
+  color: var(--text-light);
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.login-card input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  transition: border-color 0.2s;
+}
+
+.login-card input:focus {
+  outline: none;
+  border-color: var(--sea-light);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--cliff-red), var(--cliff-dark));
+  color: white;
+  border: none;
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.1s, box-shadow 0.2s;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(192,57,43,0.3);
+}
+
+.btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* Evaluation cards */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.eval-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  border-left: 4px solid var(--sea-light);
+  transition: border-color 0.3s;
+}
+
+.eval-card.rated {
+  border-left-color: var(--success);
+}
+
+.eval-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.75rem;
+}
+
+.eval-id {
+  font-size: 0.75rem;
+  color: var(--text-light);
+  background: var(--sand-light);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.category-badge {
+  font-size: 0.7rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.category-badge.medium { background: #ebf5fb; color: var(--sea-mid); }
+.category-badge.long { background: #fdebd0; color: #e67e22; }
+
+.german-text {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+  padding: 0.6rem 0.8rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  color: var(--text);
+}
+
+.german-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-light);
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+.translation-block {
+  margin-bottom: 0.75rem;
+}
+
+.model-name {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--sea-dark);
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.model-name::before {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--sea-light);
+}
+
+.translation-text {
+  font-size: 0.95rem;
+  padding: 0.5rem 0.75rem;
+  background: #eaf2f8;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  font-style: italic;
+  color: #2c3e50;
+}
+
+.rating-row {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.rating-label {
+  font-size: 0.75rem;
+  color: var(--text-light);
+  margin-right: 0.25rem;
+  font-weight: 600;
+}
+
+.rating-btn {
+  width: 38px;
+  height: 34px;
+  border: 2px solid var(--border);
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+  transition: all 0.15s;
+}
+
+.rating-btn:hover {
+  border-color: var(--sea-light);
+  background: #ebf5fb;
+}
+
+.rating-btn.selected {
+  background: var(--sea-dark);
+  color: white;
+  border-color: var(--sea-dark);
+}
+
+.rating-btn.selected[data-score="1"] { background: #e74c3c; border-color: #e74c3c; }
+.rating-btn.selected[data-score="2"] { background: #e67e22; border-color: #e67e22; }
+.rating-btn.selected[data-score="3"] { background: #f1c40f; border-color: #f1c40f; color: #333; }
+.rating-btn.selected[data-score="4"] { background: #2ecc71; border-color: #2ecc71; }
+.rating-btn.selected[data-score="5"] { background: #27ae60; border-color: #27ae60; }
+.rating-btn.selected[data-score="6"] { background: #1a8a4a; border-color: #1a8a4a; }
+
+.rating-desc {
+  font-size: 0.7rem;
+  color: var(--text-light);
+  margin-left: 0.25rem;
+}
+
+/* Completion screen */
+.completion-screen {
+  text-align: center;
+  padding: 3rem 1.5rem;
+}
+
+.completion-screen h2 {
+  color: var(--success);
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.completion-screen p {
+  color: var(--text-light);
+  margin-bottom: 1.5rem;
+}
+
+.btn-download {
+  background: linear-gradient(135deg, var(--success), #219653);
+  color: white;
+  border: none;
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  margin: 0.5rem;
+}
+
+.btn-secondary {
+  background: var(--sea-mid);
+  color: white;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-weight: 600;
+  margin: 0.5rem;
+}
+
+.scale-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin: 1rem 0;
+  padding: 0.75rem;
+  background: rgba(255,255,255,0.15);
+  border-radius: 8px;
+}
+
+.scale-item {
+  font-size: 0.7rem;
+  opacity: 0.9;
+}
+
+.evaluator-name {
+  font-size: 0.8rem;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.evaluator-name:hover {
+  text-decoration: underline;
+}
+
+/* Jump to unrated */
+.jump-unrated {
+  background: var(--cliff-red);
+  border: none;
+  color: white;
+  padding: 0.35rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 600px) {
+  .header h1 { font-size: 1.1rem; }
+  .rating-btn { width: 34px; height: 30px; font-size: 0.8rem; }
+  .eval-card { padding: 1rem; }
+  .german-text { font-size: 0.95rem; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Halunder Translation Evaluation</h1>
+  <div class="subtitle">German to Halunder (Heligolandic Frisian)</div>
+  <div id="header-controls" style="display:none;">
+    <div class="scale-legend">
+      <span class="scale-item">1=Unusable</span>
+      <span class="scale-item">2=Major mistake</span>
+      <span class="scale-item">3=Acceptable</span>
+      <span class="scale-item">4=Good</span>
+      <span class="scale-item">5=Flawless</span>
+      <span class="scale-item">6=Perfect</span>
+    </div>
+    <div class="progress-bar-container">
+      <div class="progress-bar" id="progress-bar" style="width:0%"></div>
+    </div>
+    <div class="progress-text" id="progress-text">0 / 0 rated</div>
+    <div class="nav-bar">
+      <button id="btn-prev" onclick="changePage(-1)">Prev</button>
+      <span class="page-info" id="page-info">1 / 1</span>
+      <button id="btn-next" onclick="changePage(1)">Next</button>
+      <button class="jump-unrated" onclick="jumpToUnrated()">Next Unrated</button>
+      <button class="btn-secondary" onclick="downloadCSV()" style="padding:0.35rem 0.8rem; font-size:0.8rem;">Export CSV</button>
+      <span class="evaluator-name" id="evaluator-display" onclick="logout()"></span>
+    </div>
+  </div>
+</div>
+
+<div id="login-view" class="login-screen">
+  <div class="login-card">
+    <h2>Welcome, Evaluator</h2>
+    <p>Enter your name to start evaluating translations. Your progress will be saved automatically.</p>
+    <input type="text" id="eval-name" placeholder="Your name" onkeydown="if(event.key==='Enter')startEval()">
+    <br>
+    <button class="btn-primary" onclick="startEval()">Start Evaluation</button>
+  </div>
+</div>
+
+<div id="eval-view" style="display:none;">
+  <div class="container" id="cards-container"></div>
+</div>
+
+<div id="complete-view" style="display:none;">
+  <div class="completion-screen">
+    <h2>Evaluation Complete!</h2>
+    <p id="complete-summary"></p>
+    <button class="btn-download" onclick="downloadCSV()">Download Results (CSV)</button>
+    <br>
+    <button class="btn-secondary" onclick="showEvalView()">Review Ratings</button>
+  </div>
+</div>
+
+<script>
+let DATA = null;
+let evaluator = '';
+let ratings = {};  // { "EVAL-001": { "GPT-5.4 RAG": 4 } }
+let currentPage = 0;
+const PAGE_SIZE = 10;
+
+async function loadData() {
+  const resp = await fetch('data.json');
+  DATA = await resp.json();
+}
+
+function storageKey() {
+  return 'halunder_eval_' + evaluator;
+}
+
+function saveRatings() {
+  localStorage.setItem(storageKey(), JSON.stringify(ratings));
+}
+
+function loadRatings() {
+  const stored = localStorage.getItem(storageKey());
+  if (stored) {
+    ratings = JSON.parse(stored);
+  } else {
+    ratings = {};
+  }
+}
+
+function countRated() {
+  let total = 0;
+  let rated = 0;
+  for (const s of DATA.sentences) {
+    for (const m of DATA.models) {
+      total++;
+      if (ratings[s.id] && ratings[s.id][m]) rated++;
+    }
+  }
+  return { total, rated };
+}
+
+function updateProgress() {
+  const { total, rated } = countRated();
+  const pct = total > 0 ? (rated / total * 100) : 0;
+  document.getElementById('progress-bar').style.width = pct + '%';
+  document.getElementById('progress-text').textContent = rated + ' / ' + total + ' rated';
+
+  if (rated === total && total > 0) {
+    showComplete();
+  }
+}
+
+function totalPages() {
+  return Math.ceil(DATA.sentences.length / PAGE_SIZE);
+}
+
+function renderPage() {
+  const container = document.getElementById('cards-container');
+  container.innerHTML = '';
+  const start = currentPage * PAGE_SIZE;
+  const end = Math.min(start + PAGE_SIZE, DATA.sentences.length);
+
+  for (let i = start; i < end; i++) {
+    const s = DATA.sentences[i];
+    const isAllRated = DATA.models.every(m => ratings[s.id] && ratings[s.id][m]);
+
+    let html = '<div class="eval-card ' + (isAllRated ? 'rated' : '') + '" id="card-' + s.id + '">';
+    html += '<div class="eval-card-header">';
+    html += '<span class="eval-id">' + s.id + '</span>';
+    html += '<span class="category-badge ' + s.category + '">' + s.category + ' (' + s.word_count + ' words)</span>';
+    html += '</div>';
+    html += '<div class="german-label">German Source</div>';
+    html += '<div class="german-text">' + escapeHtml(s.german) + '</div>';
+
+    for (const model of DATA.models) {
+      const translation = s.translations[model] || '(not available)';
+      const currentRating = (ratings[s.id] && ratings[s.id][model]) || 0;
+
+      html += '<div class="translation-block">';
+      html += '<div class="model-name">' + escapeHtml(model) + '</div>';
+      html += '<div class="translation-text">' + escapeHtml(translation) + '</div>';
+      html += '<div class="rating-row">';
+      html += '<span class="rating-label">Rate:</span>';
+
+      for (let score = 1; score <= 6; score++) {
+        const sel = currentRating === score ? ' selected' : '';
+        html += '<button class="rating-btn' + sel + '" data-score="' + score + '" data-id="' + s.id + '" data-model="' + model + '" onclick="rate(this, \'' + s.id + '\', \'' + model.replace(/'/g, "\\'") + '\', ' + score + ')">' + score + '</button>';
+      }
+
+      const descs = { 1: 'Unusable', 2: 'Major', 3: 'OK', 4: 'Good', 5: 'Flawless', 6: 'Perfect' };
+      if (currentRating > 0) {
+        html += '<span class="rating-desc">' + descs[currentRating] + '</span>';
+      }
+      html += '</div></div>';
+    }
+    html += '</div>';
+    container.innerHTML += html;
+  }
+
+  document.getElementById('page-info').textContent = (currentPage + 1) + ' / ' + totalPages();
+  document.getElementById('btn-prev').disabled = currentPage === 0;
+  document.getElementById('btn-next').disabled = currentPage >= totalPages() - 1;
+  updateProgress();
+}
+
+function rate(btn, id, model, score) {
+  if (!ratings[id]) ratings[id] = {};
+  // Toggle off if clicking same score
+  if (ratings[id][model] === score) {
+    delete ratings[id][model];
+  } else {
+    ratings[id][model] = score;
+  }
+  saveRatings();
+  renderPage();
+}
+
+function changePage(delta) {
+  currentPage = Math.max(0, Math.min(totalPages() - 1, currentPage + delta));
+  renderPage();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function jumpToUnrated() {
+  for (let i = 0; i < DATA.sentences.length; i++) {
+    const s = DATA.sentences[i];
+    for (const m of DATA.models) {
+      if (!ratings[s.id] || !ratings[s.id][m]) {
+        currentPage = Math.floor(i / PAGE_SIZE);
+        renderPage();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setTimeout(() => {
+          const card = document.getElementById('card-' + s.id);
+          if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 100);
+        return;
+      }
+    }
+  }
+  alert('All translations have been rated!');
+}
+
+function startEval() {
+  const name = document.getElementById('eval-name').value.trim();
+  if (!name) { alert('Please enter your name.'); return; }
+  evaluator = name;
+  loadRatings();
+  showEvalView();
+}
+
+function showEvalView() {
+  document.getElementById('login-view').style.display = 'none';
+  document.getElementById('complete-view').style.display = 'none';
+  document.getElementById('eval-view').style.display = 'block';
+  document.getElementById('header-controls').style.display = 'block';
+  document.getElementById('evaluator-display').textContent = evaluator;
+  renderPage();
+}
+
+function showComplete() {
+  document.getElementById('eval-view').style.display = 'none';
+  document.getElementById('complete-view').style.display = 'block';
+  const { total, rated } = countRated();
+  document.getElementById('complete-summary').textContent =
+    'You rated all ' + rated + ' translations. Thank you, ' + evaluator + '!';
+}
+
+function logout() {
+  if (confirm('Switch evaluator? Your progress is saved.')) {
+    document.getElementById('login-view').style.display = 'flex';
+    document.getElementById('eval-view').style.display = 'none';
+    document.getElementById('complete-view').style.display = 'none';
+    document.getElementById('header-controls').style.display = 'none';
+    evaluator = '';
+    ratings = {};
+    currentPage = 0;
+  }
+}
+
+function downloadCSV() {
+  let csv = 'evaluator,eval_id,german_input,model,translation,score\n';
+  for (const s of DATA.sentences) {
+    for (const m of DATA.models) {
+      const score = (ratings[s.id] && ratings[s.id][m]) || '';
+      const translation = (s.translations[m] || '').replace(/"/g, '""');
+      const german = s.german.replace(/"/g, '""');
+      csv += '"' + evaluator + '","' + s.id + '","' + german + '","' + m + '","' + translation + '",' + score + '\n';
+    }
+  }
+  const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'halunder_eval_' + evaluator.replace(/\s+/g, '_') + '_' + new Date().toISOString().slice(0, 10) + '.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+// Init
+loadData().then(() => {
+  // Check if returning evaluator
+  const params = new URLSearchParams(window.location.search);
+  const name = params.get('evaluator');
+  if (name) {
+    document.getElementById('eval-name').value = name;
+  }
+});
+</script>
+
+</body>
+</html>

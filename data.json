@@ -1,0 +1,915 @@
+{
+  "models": [
+    "GPT-5.4 RAG"
+  ],
+  "scale": {
+    "1": "Unusable",
+    "2": "Major mistake",
+    "3": "Acceptable",
+    "4": "Good",
+    "5": "Flawless",
+    "6": "Perfect"
+  },
+  "sentences": [
+    {
+      "id": "EVAL-001",
+      "german": "Hallo, wie geht es dir?",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, ho gungt di?"
+      }
+    },
+    {
+      "id": "EVAL-002",
+      "german": "Gleich ist alles wieder gut.",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Nä es deät oaber gemüütli."
+      }
+    },
+    {
+      "id": "EVAL-003",
+      "german": "Jetzt ist es aber gemütlich.",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik leef di."
+      }
+    },
+    {
+      "id": "EVAL-004",
+      "german": "Wir beide passen wirklich gut zusammen.",
+      "word_count": 6,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik leef Lun."
+      }
+    },
+    {
+      "id": "EVAL-005",
+      "german": "Ich liebe Helgoland",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Freeliges Naidjooar!"
+      }
+    },
+    {
+      "id": "EVAL-006",
+      "german": "Hallo wie gehts",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Alles Gud tu Gebuursdai"
+      }
+    },
+    {
+      "id": "EVAL-007",
+      "german": "Alles Gute zum Geburtstag",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Mi gungt deät gud."
+      }
+    },
+    {
+      "id": "EVAL-008",
+      "german": "Mir geht es gut",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Deät dait mi wai."
+      }
+    },
+    {
+      "id": "EVAL-009",
+      "german": "Das tut mir weh.",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Hartlik Glookwinsk tu Gebuursdai"
+      }
+    },
+    {
+      "id": "EVAL-010",
+      "german": "Ich mag dich",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ho wart deät Weder dollung?"
+      }
+    },
+    {
+      "id": "EVAL-011",
+      "german": "Ich hab dich lieb",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Deät Projäkt skaft en Rüm, dear üüs Kinj vielleicht iin Doag ool Dagböker of Breewen fan de Dakböön ferstun kön."
+      }
+    },
+    {
+      "id": "EVAL-012",
+      "german": "Wie geht's dir",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ho hit de Kläow fan Lun?"
+      }
+    },
+    {
+      "id": "EVAL-013",
+      "german": "Ich habe Hunger",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wi froie üs ap djim."
+      }
+    },
+    {
+      "id": "EVAL-014",
+      "german": "Das ist ein Test",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wi set iip en Beenk bi de Brai."
+      }
+    },
+    {
+      "id": "EVAL-015",
+      "german": "der hund will nicht essen",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik gung dollung hen tu toophoaln."
+      }
+    },
+    {
+      "id": "EVAL-016",
+      "german": "Hallo ich heiße",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Gud'n Dai, ho gungt et jo?"
+      }
+    },
+    {
+      "id": "EVAL-017",
+      "german": "Heute ist ein schöner Tag",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik ben Fraidai toop med miin Hun noa Cuxhoben foaren en keem dan ierst jister noa Helgelun weer turech. Et hat rech fel schüket."
+      }
+    },
+    {
+      "id": "EVAL-018",
+      "german": "Wie wird das Wetter heute?",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "En Biir, bidde."
+      }
+    },
+    {
+      "id": "EVAL-019",
+      "german": "Was geht ab",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wel wi noa de Hallem?"
+      }
+    },
+    {
+      "id": "EVAL-020",
+      "german": "Guten morgen elias,",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Deäi es wundervol Wedder."
+      }
+    },
+    {
+      "id": "EVAL-021",
+      "german": "Wann wollen wir essen gehen?",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik fiile mi ni gud."
+      }
+    },
+    {
+      "id": "EVAL-022",
+      "german": "Ich ficke deine Mutter",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wearom komt Damper dollung ni?"
+      }
+    },
+    {
+      "id": "EVAL-023",
+      "german": "Mach die Tür zu.",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik ben bliid."
+      }
+    },
+    {
+      "id": "EVAL-024",
+      "german": "Ich bin Simon. Ich komme aus Mittel",
+      "word_count": 7,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Gud'n Moorn, has di hongeri? Ik kön en Ei kake."
+      }
+    },
+    {
+      "id": "EVAL-025",
+      "german": "Ich esse gerne Brötchen",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Deät Wedder es roor."
+      }
+    },
+    {
+      "id": "EVAL-026",
+      "german": "Hallo liebe Campingfreunde",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik mut noa de Oarbooid."
+      }
+    },
+    {
+      "id": "EVAL-027",
+      "german": "Hey was geht",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik mut hen uun de Skinn."
+      }
+    },
+    {
+      "id": "EVAL-028",
+      "german": "wie ist dA",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wa djef 'et dolung tu iit?"
+      }
+    },
+    {
+      "id": "EVAL-029",
+      "german": "Mein Name ist",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wi foar noa Lun."
+      }
+    },
+    {
+      "id": "EVAL-030",
+      "german": "Wie heißt der Felsen von Helgoland?",
+      "word_count": 6,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Hu wen ik hiir de baste Kniipers?"
+      }
+    },
+    {
+      "id": "EVAL-031",
+      "german": "Mach es gut",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, miin Neem es"
+      }
+    },
+    {
+      "id": "EVAL-032",
+      "german": "Der Übersetzer ist ja eine coole Idee.",
+      "word_count": 7,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, ho hit di?"
+      }
+    },
+    {
+      "id": "EVAL-033",
+      "german": "Der Mann küsst die Frau.",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wat has di düsdeeg feer?"
+      }
+    },
+    {
+      "id": "EVAL-034",
+      "german": "Ich bin glücklich.",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Dollung skint di Sen."
+      }
+    },
+    {
+      "id": "EVAL-035",
+      "german": "Ein Buch von der Insel, die atmet.",
+      "word_count": 7,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ho djiir es de Foort no Helgolun?"
+      }
+    },
+    {
+      "id": "EVAL-036",
+      "german": "Wir freuen uns auf euch.",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Hu fel Uhr es't?"
+      }
+    },
+    {
+      "id": "EVAL-037",
+      "german": "Trifft überhaupt nicht zu.",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ho küm ik noa de Kark?"
+      }
+    },
+    {
+      "id": "EVAL-038",
+      "german": "Guten Morgen, Herbert.",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ho fel hat deät Booat kost?"
+      }
+    },
+    {
+      "id": "EVAL-039",
+      "german": "Wollen wir auf die Düne?",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Gud'n Flooem, ho has di sleäpen?"
+      }
+    },
+    {
+      "id": "EVAL-040",
+      "german": "... und 'ne Buddel voll Rum.",
+      "word_count": 6,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik gung noa de Hoawen."
+      }
+    },
+    {
+      "id": "EVAL-041",
+      "german": "Ich fühle mich nicht gut",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Welkoam iip Lun."
+      }
+    },
+    {
+      "id": "EVAL-042",
+      "german": "Mein liebster Austernfischer",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ick wull bitle en Oolbrüüdje."
+      }
+    },
+    {
+      "id": "EVAL-043",
+      "german": "Das passt Sven",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wel wi toop lear?"
+      }
+    },
+    {
+      "id": "EVAL-044",
+      "german": "Hallo, liebe Schwester!",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wat iit wi dan dolung?"
+      }
+    },
+    {
+      "id": "EVAL-045",
+      "german": "Das hast du super gemacht",
+      "word_count": 5,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wan djef 'et dan tu drinken?"
+      }
+    },
+    {
+      "id": "EVAL-046",
+      "german": "Hallo ich bin",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, ik ben Emily."
+      }
+    },
+    {
+      "id": "EVAL-047",
+      "german": "ein bier bitte",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Foor wi mooern noa de Hallem?"
+      }
+    },
+    {
+      "id": "EVAL-048",
+      "german": "Halt dich mal gut fest, mein Junge.",
+      "word_count": 7,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Gud In. Ik froie mi ap de Ineten."
+      }
+    },
+    {
+      "id": "EVAL-049",
+      "german": "Guten Tag, wie geht es Ihnen?",
+      "word_count": 6,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik hoa di liif."
+      }
+    },
+    {
+      "id": "EVAL-050",
+      "german": "Reif für die Insel.",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Miin Motorrad es uungungen."
+      }
+    },
+    {
+      "id": "EVAL-051",
+      "german": "Danke, dass ihr auch Info-Posts einen Like gebt!",
+      "word_count": 8,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Gud'n Dai, tau Rinstekken, bidde."
+      }
+    },
+    {
+      "id": "EVAL-052",
+      "german": "Wir sitzen auf einer Bank an der Landungsbrücke",
+      "word_count": 8,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik wenske di en gurt Noacht."
+      }
+    },
+    {
+      "id": "EVAL-053",
+      "german": "Warum kommt der Dampfer heute nicht?",
+      "word_count": 6,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ii Lun es en faini Insel."
+      }
+    },
+    {
+      "id": "EVAL-054",
+      "german": "Ich gehe nach Hause.",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, ik hit Julian en küm fan Mainz."
+      }
+    },
+    {
+      "id": "EVAL-055",
+      "german": "Heute ist schönes Wetter",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "De Künner soamele Musseler bi Strun en loache lood."
+      }
+    },
+    {
+      "id": "EVAL-056",
+      "german": "Ich muss auf klo",
+      "word_count": 4,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik wel gearn en Ligplak ön de Marina fan Lun kreeg."
+      }
+    },
+    {
+      "id": "EVAL-057",
+      "german": "Ich spreche Halunder",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Dollung fart keen Feer, wiel 'et tu stark stürmt."
+      }
+    },
+    {
+      "id": "EVAL-058",
+      "german": "Du bist doof",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Ik küm üt Köllen en wuune nä uun de Nederlannen."
+      }
+    },
+    {
+      "id": "EVAL-059",
+      "german": "Ich gehe i",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh! Ik fin deät en Stoad, dat deät disse Sid giit, am de Spraak to red."
+      }
+    },
+    {
+      "id": "EVAL-060",
+      "german": "Ich grüße dich",
+      "word_count": 3,
+      "category": "medium",
+      "translations": {
+        "GPT-5.4 RAG": "Wi hoa en Hüs iip 't Bopperlun. Welkoam bi is dren."
+      }
+    },
+    {
+      "id": "EVAL-061",
+      "german": "Aber du bist groß und ich bin klein. Das stimmt.",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik ben Fesker en brik no en poor stark Hun'n, am de Forellen iintuhoalen. Djef uk gud Jül!"
+      }
+    },
+    {
+      "id": "EVAL-062",
+      "german": "Besucht uns im Haus Marinas im Helgoländer Südhafen und entdeckt die Vielfalt.",
+      "word_count": 12,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Gud'n Flooem, ik wenske di en faini Doog"
+      }
+    },
+    {
+      "id": "EVAL-063",
+      "german": "Hast du es dem Mann gesagt? Der Mann ist groß. Ist das das Huas",
+      "word_count": 14,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik moake alle Moorn en Spatseergung bi de See."
+      }
+    },
+    {
+      "id": "EVAL-064",
+      "german": "Der Hauptzweck dieser Datenerfassung ist die Erstellung einer Langzeitstudie zu Helgoland, zu Europa und zum helgoländischen Gefühl der Unabhängigkeit.",
+      "word_count": 19,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, ik küm fan Lun oaber wun iip de Fasteelun."
+      }
+    },
+    {
+      "id": "EVAL-065",
+      "german": "Dieses Projekt schafft einen Raum, in dem unsere Kinder vielleicht eines Tages alte Tagebücher oder Briefe vom Dachboden verstehen können.",
+      "word_count": 20,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Uwe hat weer en Sluup. Hi wür med jam om de Hallig foaren."
+      }
+    },
+    {
+      "id": "EVAL-066",
+      "german": "Meine Oma Bertha wohnt im Oberland, neben der Kirche. Sie hat einen schönen Garten und auch einen Strandkorb. Dort sitzt sie dann immer mit ihrem kleinen weißen Hund, Teddy. So ein süßer. Ich liebe meine Oti, sie hat doch viel zu erzählen.",
+      "word_count": 42,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik wul gearn Halunder lear, deer't me trurig moaket, dat de Spraak worskynelk ütstiarf skel. Dja es en spannend Relikt fan fergaan Tid, en her Behool es me wichti."
+      }
+    },
+    {
+      "id": "EVAL-067",
+      "german": "Es war einmal ein kleiner Junge, der hieß Häwelmann. Des Nachts schlief er in einem Rollenbett und auch des Nachmittags,  wenn ermüde war; wenn er aber nicht müde war, so musste ihn seine .ut",
+      "word_count": 34,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Wan es miin Iit kloor? Ik hee Hunger!"
+      }
+    },
+    {
+      "id": "EVAL-068",
+      "german": "Vielleicht kannst du dich noch daran erinnern... Obwohl, du bist noch zu jung dafür.",
+      "word_count": 14,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik wear letj Djooar iip Lun. En skitter Eelun."
+      }
+    },
+    {
+      "id": "EVAL-069",
+      "german": "Auf geht's! Das wird toll! Weiter so! Das sieht gut aus! Wer so lächelt, kommt ins Ziel!",
+      "word_count": 17,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, ik küm üt Södjütskland en ik froie mi hiir tu wees'n."
+      }
+    },
+    {
+      "id": "EVAL-070",
+      "german": "Will er will viel Geld habenst du ein bisschen was essen?",
+      "word_count": 11,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Wi hoa en heel schtjülli Wanderung deer de Barge den'n."
+      }
+    },
+    {
+      "id": "EVAL-071",
+      "german": "Guten Morgen, hast du Hunger? Ich könnte ein Ei kochen.",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik lew gearn iip Lun. De Rais es soms hiel stormi."
+      }
+    },
+    {
+      "id": "EVAL-072",
+      "german": "Die für Palästinenserangelegenheiten zuständige israelische Behörde Cogat habe hochrangigen Vertretern des Gesundheitswesens im Gazastreifen zugesichert, der Bevölkerung Unterbringungsorte im Süden des Gebiets zur Verfügung zu stellen.",
+      "word_count": 26,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh. Ik wel nä dan tu fiske gung. Bist du dear bi?"
+      }
+    },
+    {
+      "id": "EVAL-073",
+      "german": "Ordentlich was los hier. Bei so vielen Großseglern lohnt sich ein Ausflug.",
+      "word_count": 12,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Wuar gungt deät tu de uur Supermarkt en wan begent hiar de Gudstjänst?"
+      }
+    },
+    {
+      "id": "EVAL-074",
+      "german": "Wann bist du heute aufgestanden? Und wann gehst du wieder ins Bett?",
+      "word_count": 12,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik kan Halunder snake. Det es en ool friisk Spreek."
+      }
+    },
+    {
+      "id": "EVAL-075",
+      "german": "Ich bin am Freitag zusammen mit meinem Hund nach Cuxhaven gefahren und kam dann erst gestern nach Helgoland zurück. Es hat ordentlich viel geschaukelt.",
+      "word_count": 24,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik wus do heel ni, dat dees Spraak dear as. Nu frog ik mi, hu dees wel klinge mag?"
+      }
+    },
+    {
+      "id": "EVAL-076",
+      "german": "Es werden auch regionale Ideen bezüglich der Autonomie und Unabhängigkeit gefragt.",
+      "word_count": 11,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Üs Opa winket med siin Kwap"
+      }
+    },
+    {
+      "id": "EVAL-077",
+      "german": "Guten Morgen Birgit, ich hoffe, dass du heute einen schönen Tag hast.",
+      "word_count": 12,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Deät as ja rechti klos!"
+      }
+    },
+    {
+      "id": "EVAL-078",
+      "german": "Literatur bedeutet auch, Zustände zu erkennen und zu be-nennen. Wer hinsieht und schweigt, läuft Gefahr, der Un-wahrheit das Wort zu reden.",
+      "word_count": 21,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Hool di no'ns gud fast, min Jung."
+      }
+    },
+    {
+      "id": "EVAL-079",
+      "german": "Willkommen zur Umfrage zur regionalen, nationalen und europäischen Identität Helgolands",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Cloas, dii ni ap. Kämp fiider. Wi san bi di en help di."
+      }
+    },
+    {
+      "id": "EVAL-080",
+      "german": "Guten Morgen Burcu, ich hoffe das du gut ausgeschlafen bist",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Moin, ho gungt 'et di? Ik ben ap 'e Tiet recht mööd."
+      }
+    },
+    {
+      "id": "EVAL-081",
+      "german": "Per Definition können Umfragen alle Arten von Daten enthalten.",
+      "word_count": 9,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Gud Noacht, miin letj Faini, sloap gud en druum swet."
+      }
+    },
+    {
+      "id": "EVAL-082",
+      "german": "Über die öffentliche Meinung ist jedoch nur sehr wenig bekannt.",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, ik hit Lena. Ik gung am Oabend med min Hun Susi spazieren."
+      }
+    },
+    {
+      "id": "EVAL-083",
+      "german": "Hier ist es heute auch schön und sonnig. Mama und Paul sind im Gartenrausch.",
+      "word_count": 14,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Glik es allet weer gud."
+      }
+    },
+    {
+      "id": "EVAL-084",
+      "german": "Ihnen oder Dritten in einem strukturierten, gemeinsamen und maschinenlesbaren Format.",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Wi al tau passe reälik gud tuup."
+      }
+    },
+    {
+      "id": "EVAL-085",
+      "german": "Die eingegebene Adresse ist nicht korrekt. Bitte überprüfen Sie Ihre Eingabe auf Tippfehler.",
+      "word_count": 13,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Wan wel wi iit?"
+      }
+    },
+    {
+      "id": "EVAL-086",
+      "german": "Helgoländisch ist nicht nur eine Sprache, sondern zugleich auch Kultur und Identität einer Jahrhunderte alten Gemeinschaft. Und anders, als alle anderen Friesischen Dialekte ist Helgoländisch tatsächlich eine eigenständige Sprache.",
+      "word_count": 29,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Mook de Deer tu."
+      }
+    },
+    {
+      "id": "EVAL-087",
+      "german": "En iip Lunn uun alle iaars dai uune nai djooar Halunder gung to wensken",
+      "word_count": 14,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik gung henthüs."
+      }
+    },
+    {
+      "id": "EVAL-088",
+      "german": "Wir freuen uns sehr, dass unsere Post bei Ihnen angekommen ist. Herzliche Grüße zurück an Sie und nach Schwerin.",
+      "word_count": 19,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Wan best di dollung apstun? En wan gungst di weer tu Bäd?"
+      }
+    },
+    {
+      "id": "EVAL-089",
+      "german": "Das letzte konnte ich sogar ohne Übersetzer verstehen. So schwierig ist Helgoländisch gar nicht.",
+      "word_count": 14,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ik koop en nais Handy."
+      }
+    },
+    {
+      "id": "EVAL-090",
+      "german": "Als Serhii K. am Freitag zum Haftrichter am Gericht in Bologna gebracht wurde, trug er Handschellen und wurde von drei Polizisten begleitet.",
+      "word_count": 22,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "De Oawerfeller as dja en kuul Idee."
+      }
+    },
+    {
+      "id": "EVAL-091",
+      "german": "Ruhe! Mit diesem Schluch eröffne ich den heutigen Stiftungskommers anlässlich der Gründung der Ferialis Helgolandia vor ziemlich genau ei em Jahr!",
+      "word_count": 21,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Ferlech kanst di di no dearan herinre... Ouwel, di best no tu jung deerfeer."
+      }
+    },
+    {
+      "id": "EVAL-092",
+      "german": "Schnee fällt langsam, wenn der Wind um die Häuser heult.",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Stemt oawerhaup ni."
+      }
+    },
+    {
+      "id": "EVAL-093",
+      "german": "Liebste Tochter, lieber Schwiegersohn, wir wünschen euch Liebe und Glück für eure gemeinsame Zukunft. Alle Zeit ein weites Herz und einen klaren Horizont",
+      "word_count": 23,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Dat has di süper moaket."
+      }
+    },
+    {
+      "id": "EVAL-094",
+      "german": "Erneut haben Angehörige der von der Hamas verschleppten Geiseln in Tel Aviv demonstriert - tief geschockt von neuen Videos.",
+      "word_count": 19,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Miin Oot Bertha wuunt uun't Bopperlun, deer neäwen de Kark. Dji hat en sköön Goorn med grate Blöm en en Strunkoorb."
+      }
+    },
+    {
+      "id": "EVAL-095",
+      "german": "Ich nehme die zwei Flaschen und dann noch zuckersirup",
+      "word_count": 9,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Wi mai Kuuk gearn liid!"
+      }
+    },
+    {
+      "id": "EVAL-096",
+      "german": "Eins zwei drei vier fünf sechs sieben acht neun zehn",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Nä kan ja niks mear skeefgung!"
+      }
+    },
+    {
+      "id": "EVAL-097",
+      "german": "Grün ist das Land, rot ist die Kant, weiß ist der Sand, das sind die Farben von Helgoland",
+      "word_count": 18,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Hu ool bes di?"
+      }
+    },
+    {
+      "id": "EVAL-098",
+      "german": "Gute nacht mein Liebster, schlaf gut und träume süß",
+      "word_count": 9,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Halunder wart iip Lun snaket."
+      }
+    },
+    {
+      "id": "EVAL-099",
+      "german": "Ich habe mir ein schöne Uhr gekauft, eine goldene Rolex...",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Holloh, hoo wear diin Dai?"
+      }
+    },
+    {
+      "id": "EVAL-100",
+      "german": "komm lass uns mal ein bier trinken und abendbrot essen",
+      "word_count": 10,
+      "category": "long",
+      "translations": {
+        "GPT-5.4 RAG": "Mooern as Fut-boal. Welk as dear bi?"
+      }
+    }
+  ]
+}
