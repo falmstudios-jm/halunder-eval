@@ -1,8 +1,9 @@
 {
   "models": [
-    "GPT-5.4 RAG (Dict+LLM)",
+    "NLLB-1.3B DEU (BLEU 44.2)",
     "GPT-4.1 Fine-tuned (42K)",
-    "GPT-4.1-mini Fine-tuned"
+    "GPT-4.1-mini Fine-tuned",
+    "GPT-5.4 RAG (Dict+LLM)"
   ],
   "scale": {
     "1": "Unusable",
@@ -19,9 +20,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hallo, hu as det di?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Halao, ho gungt 'et di?",
         "GPT-4.1 Fine-tuned (42K)": "Haallow, ho gungt et di?",
-        "GPT-4.1-mini Fine-tuned": "Holloh, hoalst di?"
+        "GPT-4.1-mini Fine-tuned": "Holloh, hoalst di?",
+        "GPT-5.4 RAG (Dict+LLM)": "Hallo, hu as det di?"
       }
     },
     {
@@ -30,9 +32,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Bald es alles wier gud.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Mediaans es ales weer gud.",
         "GPT-4.1 Fine-tuned (42K)": "Gleich es alles weer gud.",
-        "GPT-4.1-mini Fine-tuned": "Mediaans es alles weer gud."
+        "GPT-4.1-mini Fine-tuned": "Mediaans es alles weer gud.",
+        "GPT-5.4 RAG (Dict+LLM)": "Bald es alles wier gud."
       }
     },
     {
@@ -41,9 +44,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Nu as et oaber gemüütlik.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Nä es deät oaber gemüütli.",
         "GPT-4.1 Fine-tuned (42K)": "Nä es deät oaber gemüütelk.",
-        "GPT-4.1-mini Fine-tuned": "Nä es et oaber omti."
+        "GPT-4.1-mini Fine-tuned": "Nä es et oaber omti.",
+        "GPT-5.4 RAG (Dict+LLM)": "Nu as et oaber gemüütlik."
       }
     },
     {
@@ -52,9 +56,10 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wi tau passen werkelk gud tohop.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wi tau roar gud toopkeem.",
         "GPT-4.1 Fine-tuned (42K)": "Wi tau passe rech gud toop.",
-        "GPT-4.1-mini Fine-tuned": "Wi tau passe reäli gud toop."
+        "GPT-4.1-mini Fine-tuned": "Wi tau passe reäli gud toop.",
+        "GPT-5.4 RAG (Dict+LLM)": "Wi tau passen werkelk gud tohop."
       }
     },
     {
@@ -63,9 +68,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik lüüb Lun",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik mai deät Lun liid",
         "GPT-4.1 Fine-tuned (42K)": "Ik liuw deät Lun",
-        "GPT-4.1-mini Fine-tuned": "Ik lewwe deät Lun"
+        "GPT-4.1-mini Fine-tuned": "Ik lewwe deät Lun",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik lüüb Lun"
       }
     },
     {
@@ -74,9 +80,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hallo, huu gungt et?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Halao wat gungt",
         "GPT-4.1 Fine-tuned (42K)": "Holloh ho gungt et",
-        "GPT-4.1-mini Fine-tuned": "Hallemoal, ho es 'et hen?"
+        "GPT-4.1-mini Fine-tuned": "Hallemoal, ho es 'et hen?",
+        "GPT-5.4 RAG (Dict+LLM)": "Hallo, huu gungt et?"
       }
     },
     {
@@ -85,9 +92,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Alees Gud tuun Gebortsdag",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Allet Guds tu Gebuursdai",
         "GPT-4.1 Fine-tuned (42K)": "Alles Gud tu Gebursdai",
-        "GPT-4.1-mini Fine-tuned": "Aal Gud tu Gebuursdai"
+        "GPT-4.1-mini Fine-tuned": "Aal Gud tu Gebuursdai",
+        "GPT-5.4 RAG (Dict+LLM)": "Alees Gud tuun Gebortsdag"
       }
     },
     {
@@ -96,9 +104,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Miar gung et gud.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Mi gungt et gud",
         "GPT-4.1 Fine-tuned (42K)": "Ik ben gud tuweegen",
-        "GPT-4.1-mini Fine-tuned": "Ik ben gud dran"
+        "GPT-4.1-mini Fine-tuned": "Ik ben gud dran",
+        "GPT-5.4 RAG (Dict+LLM)": "Miar gung et gud."
       }
     },
     {
@@ -107,9 +116,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Deät deit mi wai.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Deät dait mi sear.",
         "GPT-4.1 Fine-tuned (42K)": "Deät dait mi sear.",
-        "GPT-4.1-mini Fine-tuned": "Deät dait mi sear."
+        "GPT-4.1-mini Fine-tuned": "Deät dait mi sear.",
+        "GPT-5.4 RAG (Dict+LLM)": "Deät deit mi wai."
       }
     },
     {
@@ -118,9 +128,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik mag di.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik mai di liid",
         "GPT-4.1 Fine-tuned (42K)": "Ik mai di leew wen",
-        "GPT-4.1-mini Fine-tuned": "Ik mai di"
+        "GPT-4.1-mini Fine-tuned": "Ik mai di",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik mag di."
       }
     },
     {
@@ -129,9 +140,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik hee di leef.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik hool iip di",
         "GPT-4.1 Fine-tuned (42K)": "Ik hoa di liiw",
-        "GPT-4.1-mini Fine-tuned": "Ik hab di liiw"
+        "GPT-4.1-mini Fine-tuned": "Ik hab di liiw",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik hee di leef."
       }
     },
     {
@@ -140,9 +152,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hu as di?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ho gungt 'et di",
         "GPT-4.1 Fine-tuned (42K)": "Hoast di wat",
-        "GPT-4.1-mini Fine-tuned": "Ho gungt 'et di"
+        "GPT-4.1-mini Fine-tuned": "Ho gungt 'et di",
+        "GPT-5.4 RAG (Dict+LLM)": "Hu as di?"
       }
     },
     {
@@ -151,9 +164,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik hee honger.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik hoa Honger",
         "GPT-4.1 Fine-tuned (42K)": "Ik ben hongeri",
-        "GPT-4.1-mini Fine-tuned": "Ik hoa Hunger"
+        "GPT-4.1-mini Fine-tuned": "Ik hoa Hunger",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik hee honger."
       }
     },
     {
@@ -162,9 +176,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Deät as en Test.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Deät es en Test",
         "GPT-4.1 Fine-tuned (42K)": "Deät es en Test",
-        "GPT-4.1-mini Fine-tuned": "Deät es en Test"
+        "GPT-4.1-mini Fine-tuned": "Deät es en Test",
+        "GPT-5.4 RAG (Dict+LLM)": "Deät as en Test."
       }
     },
     {
@@ -173,9 +188,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "de hun wel ni äsen",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Di Hin wel ni iit",
         "GPT-4.1 Fine-tuned (42K)": "Di hin wel ni iit",
-        "GPT-4.1-mini Fine-tuned": "Di Hin wel ni iit"
+        "GPT-4.1-mini Fine-tuned": "Di Hin wel ni iit",
+        "GPT-5.4 RAG (Dict+LLM)": "de hun wel ni äsen"
       }
     },
     {
@@ -184,9 +200,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hallo, ik heet",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Halao ik hit",
         "GPT-4.1 Fine-tuned (42K)": "Hollo ik hit",
-        "GPT-4.1-mini Fine-tuned": "Holloh ik hit"
+        "GPT-4.1-mini Fine-tuned": "Holloh ik hit",
+        "GPT-5.4 RAG (Dict+LLM)": "Hallo, ik heet"
       }
     },
     {
@@ -195,9 +212,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Diar es en sköön Doog.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Dolung es en roar Dai",
         "GPT-4.1 Fine-tuned (42K)": "Dolung es en faini Dai",
-        "GPT-4.1-mini Fine-tuned": "Dolung es en faini Dai"
+        "GPT-4.1-mini Fine-tuned": "Dolung es en faini Dai",
+        "GPT-5.4 RAG (Dict+LLM)": "Diar es en sköön Doog."
       }
     },
     {
@@ -206,9 +224,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hu wörd deät Wedder düsdi?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ho wart deät Weder dolung?",
         "GPT-4.1 Fine-tuned (42K)": "Ho wart deät Weder dolung?",
-        "GPT-4.1-mini Fine-tuned": "Hoalt deät Weder dollung?"
+        "GPT-4.1-mini Fine-tuned": "Hoalt deät Weder dollung?",
+        "GPT-5.4 RAG (Dict+LLM)": "Hu wörd deät Wedder düsdi?"
       }
     },
     {
@@ -217,9 +236,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wat geiht ap?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wat gungt uf",
         "GPT-4.1 Fine-tuned (42K)": "Wat gungt dear uf",
-        "GPT-4.1-mini Fine-tuned": "Wat gungt uf"
+        "GPT-4.1-mini Fine-tuned": "Wat gungt uf",
+        "GPT-5.4 RAG (Dict+LLM)": "Wat geiht ap?"
       }
     },
     {
@@ -228,9 +248,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Gud morn, Elias,",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Gud Moin, / elias,",
         "GPT-4.1 Fine-tuned (42K)": "Mooin elias,",
-        "GPT-4.1-mini Fine-tuned": "Guten mooin elias,"
+        "GPT-4.1-mini Fine-tuned": "Guten mooin elias,",
+        "GPT-5.4 RAG (Dict+LLM)": "Gud morn, Elias,"
       }
     },
     {
@@ -239,9 +260,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wän wel wi eten gung?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wan wel wi iit gung?",
         "GPT-4.1 Fine-tuned (42K)": "Wan wel wi iitengung?",
-        "GPT-4.1-mini Fine-tuned": "Wan wel wi iit gung?"
+        "GPT-4.1-mini Fine-tuned": "Wan wel wi iit gung?",
+        "GPT-5.4 RAG (Dict+LLM)": "Wän wel wi eten gung?"
       }
     },
     {
@@ -250,9 +272,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik kann nich helpen, en beleidigende/obszöne Sats iin en Sproak tu übersetten.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik flikk djerrem Mem",
         "GPT-4.1 Fine-tuned (42K)": "Ik fuk diin Mem",
-        "GPT-4.1-mini Fine-tuned": "Ik fikke diin Mem"
+        "GPT-4.1-mini Fine-tuned": "Ik fikke diin Mem",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik kann nich helpen, en beleidigende/obszöne Sats iin en Sproak tu übersetten."
       }
     },
     {
@@ -261,9 +284,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Moake di Deer tu.",
         "GPT-4.1 Fine-tuned (42K)": "Moake di Deer tu.",
-        "GPT-4.1-mini Fine-tuned": "Moake di Deer tu."
+        "GPT-4.1-mini Fine-tuned": "Moake di Deer tu.",
+        "GPT-5.4 RAG (Dict+LLM)": "Wenn di wul, kann ik:"
       }
     },
     {
@@ -272,9 +296,10 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wenn di wul, kann ik:",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik ben Simon. Ik keem fan Meddels",
         "GPT-4.1 Fine-tuned (42K)": "Ik ben Simon. Ik kum it Meddel",
-        "GPT-4.1-mini Fine-tuned": "Ik ben Simon. Ik keem fan Meddelung"
+        "GPT-4.1-mini Fine-tuned": "Ik ben Simon. Ik keem fan Meddelung",
+        "GPT-5.4 RAG (Dict+LLM)": "- en neutrale Version übersette, z. B. „Ich beleidige deine Mutter“"
       }
     },
     {
@@ -283,9 +308,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- en neutrale Version übersette, z. B. „Ich beleidige deine Mutter“",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik iit gearn Rinstekken",
         "GPT-4.1 Fine-tuned (42K)": "Ik iit gearn Rinsteken",
-        "GPT-4.1-mini Fine-tuned": "Ik iit gearn Broaden"
+        "GPT-4.1-mini Fine-tuned": "Ik iit gearn Broaden",
+        "GPT-5.4 RAG (Dict+LLM)": "- de Sats iin höflichs Halunder formulere"
       }
     },
     {
@@ -294,9 +320,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- de Sats iin höflichs Halunder formulere",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Halao leet Campermoats",
         "GPT-4.1 Fine-tuned (42K)": "Hallowi liiwen Campingfreenden",
-        "GPT-4.1-mini Fine-tuned": "Heloow, liibe Campingfrünn"
+        "GPT-4.1-mini Fine-tuned": "Heloow, liibe Campingfrünn",
+        "GPT-5.4 RAG (Dict+LLM)": "- oder bi Halunder allgemain helpen."
       }
     },
     {
@@ -305,9 +332,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- oder bi Halunder allgemain helpen.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djoap: Djo",
         "GPT-4.1 Fine-tuned (42K)": "Hey wat gungt",
-        "GPT-4.1-mini Fine-tuned": "Hoh wat gungt"
+        "GPT-4.1-mini Fine-tuned": "Hoh wat gungt",
+        "GPT-5.4 RAG (Dict+LLM)": "Mok de Dör tu."
       }
     },
     {
@@ -316,9 +344,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Mok de Dör tu.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ho es ʼe Dai",
         "GPT-4.1 Fine-tuned (42K)": "Hoas deät dear",
-        "GPT-4.1-mini Fine-tuned": "Ho es dear wat?"
+        "GPT-4.1-mini Fine-tuned": "Ho es dear wat?",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik bün Simon. Ik küm üt Mettel."
       }
     },
     {
@@ -327,9 +356,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik bün Simon. Ik küm üt Mettel.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Miin Neem es",
         "GPT-4.1 Fine-tuned (42K)": "Ik hit",
-        "GPT-4.1-mini Fine-tuned": "Miin Neem es"
+        "GPT-4.1-mini Fine-tuned": "Miin Neem es",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik eet geern Brööd."
       }
     },
     {
@@ -338,9 +368,10 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik eet geern Brööd.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ho hit de Kläow fan 't Lun?",
         "GPT-4.1 Fine-tuned (42K)": "Ho hit di Kläow fan't Lun?",
-        "GPT-4.1-mini Fine-tuned": "Hoat deät Kläow fan't Lun?"
+        "GPT-4.1-mini Fine-tuned": "Hoat deät Kläow fan't Lun?",
+        "GPT-5.4 RAG (Dict+LLM)": "Hallo leewi Campingfrünj"
       }
     },
     {
@@ -349,9 +380,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hallo leewi Campingfrünj",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Moake deät gud",
         "GPT-4.1 Fine-tuned (42K)": "Moaht et gud",
-        "GPT-4.1-mini Fine-tuned": "Moake deät gud"
+        "GPT-4.1-mini Fine-tuned": "Moake deät gud",
+        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also give a few alternative phrasings depending on whether you want it to sound more formal, more natural, or more like a greeting on a sign/poster."
       }
     },
     {
@@ -360,9 +392,10 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "",
+        "NLLB-1.3B DEU (BLEU 44.2)": "De Oawersetter es do en roor Read.",
         "GPT-4.1 Fine-tuned (42K)": "De Übersetter es do en kuli Ide.",
-        "GPT-4.1-mini Fine-tuned": "De Oawersatzer es do en coole Idee."
+        "GPT-4.1-mini Fine-tuned": "De Oawersatzer es do en coole Idee.",
+        "GPT-5.4 RAG (Dict+LLM)": "Hej, wat geiht?"
       }
     },
     {
@@ -371,9 +404,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also give a few alternative phrasings depending on whether you want it to sound more formal, more natural, or more like a greeting on a sign/poster.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Di Man kuset deät Wüf.",
         "GPT-4.1 Fine-tuned (42K)": "De Man küsset deät Wüf.",
-        "GPT-4.1-mini Fine-tuned": "De Man küset deät Wüf."
+        "GPT-4.1-mini Fine-tuned": "De Man küset deät Wüf.",
+        "GPT-5.4 RAG (Dict+LLM)": "hu as dA"
       }
     },
     {
@@ -382,9 +416,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hej, wat geiht?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik ben glikli.",
         "GPT-4.1 Fine-tuned (42K)": "Ik ben glikli.",
-        "GPT-4.1-mini Fine-tuned": "Ik ben glikli."
+        "GPT-4.1-mini Fine-tuned": "Ik ben glikli.",
+        "GPT-5.4 RAG (Dict+LLM)": "Miin Noom as"
       }
     },
     {
@@ -393,9 +428,10 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "hu as dA",
+        "NLLB-1.3B DEU (BLEU 44.2)": "En Buk fan deät Lun, wat eedemt.",
         "GPT-4.1 Fine-tuned (42K)": "En Buk fan't Lun, deät Atmoas.",
-        "GPT-4.1-mini Fine-tuned": "En Buk fan 't Lun, de aatmet."
+        "GPT-4.1-mini Fine-tuned": "En Buk fan 't Lun, de aatmet.",
+        "GPT-5.4 RAG (Dict+LLM)": "Hu heet di Fliis fan Lun?"
       }
     },
     {
@@ -404,9 +440,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Miin Noom as",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wi froie is iip djim.",
         "GPT-4.1 Fine-tuned (42K)": "Wi froie is iip djim.",
-        "GPT-4.1-mini Fine-tuned": "Wi froie is iip djüm."
+        "GPT-4.1-mini Fine-tuned": "Wi froie is iip djüm.",
+        "GPT-5.4 RAG (Dict+LLM)": "Mok et gud"
       }
     },
     {
@@ -415,9 +452,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hu heet di Fliis fan Lun?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Gungt oawerhaupt ni tu.",
         "GPT-4.1 Fine-tuned (42K)": "Deät es do ni deät, wat ik meen.",
-        "GPT-4.1-mini Fine-tuned": "Deät past oawerhaupt ni."
+        "GPT-4.1-mini Fine-tuned": "Deät past oawerhaupt ni.",
+        "GPT-5.4 RAG (Dict+LLM)": "A natural Halunder translation would be:"
       }
     },
     {
@@ -426,9 +464,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Mok et gud",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Gud Mooem, Herbert.",
         "GPT-4.1 Fine-tuned (42K)": "Mooin, Herbert.",
-        "GPT-4.1-mini Fine-tuned": "Gud Mooin, Herbert."
+        "GPT-4.1-mini Fine-tuned": "Gud Mooin, Herbert.",
+        "GPT-5.4 RAG (Dict+LLM)": "Deät oawersetter as ja en kuul idee."
       }
     },
     {
@@ -437,9 +476,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "A natural Halunder translation would be:",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wel wi oostert?",
         "GPT-4.1 Fine-tuned (42K)": "Welt wi hen iip de Hallem?",
-        "GPT-4.1-mini Fine-tuned": "Wel wi hen?"
+        "GPT-4.1-mini Fine-tuned": "Wel wi hen?",
+        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also give:"
       }
     },
     {
@@ -448,9 +488,10 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "",
+        "NLLB-1.3B DEU (BLEU 44.2)": "En en Böddel fol Rum.",
         "GPT-4.1 Fine-tuned (42K)": "... en en Buddel fol Rum",
-        "GPT-4.1-mini Fine-tuned": "... en Buddel fol Rum."
+        "GPT-4.1-mini Fine-tuned": "... en Buddel fol Rum.",
+        "GPT-5.4 RAG (Dict+LLM)": "- a more idiomatic Helgoland phrasing,"
       }
     },
     {
@@ -459,9 +500,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Deät oawersetter as ja en kuul idee.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik fiil mi ni gud",
         "GPT-4.1 Fine-tuned (42K)": "Ik fiil mi ni gud",
-        "GPT-4.1-mini Fine-tuned": "Ik fiil mi ni gud"
+        "GPT-4.1-mini Fine-tuned": "Ik fiil mi ni gud",
+        "GPT-5.4 RAG (Dict+LLM)": "- pronunciation help,"
       }
     },
     {
@@ -470,9 +512,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Miin bas Oosterhoft",
         "GPT-4.1 Fine-tuned (42K)": "Miin liiwst Tschiir",
-        "GPT-4.1-mini Fine-tuned": "Miin liiw Oosterfeskor"
+        "GPT-4.1-mini Fine-tuned": "Miin liiw Oosterfeskor",
+        "GPT-5.4 RAG (Dict+LLM)": "- or a word-by-word gloss."
       }
     },
     {
@@ -481,9 +524,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also give:",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Deät past Sven",
         "GPT-4.1 Fine-tuned (42K)": "Deät past Sven",
-        "GPT-4.1-mini Fine-tuned": "Deät past feer S."
+        "GPT-4.1-mini Fine-tuned": "Deät past feer S.",
+        "GPT-5.4 RAG (Dict+LLM)": "De maan küsst de frouw."
       }
     },
     {
@@ -492,9 +536,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- a more idiomatic Helgoland phrasing,",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Halao, liiwe Söster!",
         "GPT-4.1 Fine-tuned (42K)": "Holloo, liibe Suster!",
-        "GPT-4.1-mini Fine-tuned": "Holloh, liibe Söster!"
+        "GPT-4.1-mini Fine-tuned": "Holloh, liibe Söster!",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik bün glikli."
       }
     },
     {
@@ -503,9 +548,10 @@
       "word_count": 5,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- pronunciation help,",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Deät hast di süper moaket",
         "GPT-4.1 Fine-tuned (42K)": "Deät hast di spitzenmoos den’n",
-        "GPT-4.1-mini Fine-tuned": "Deät hast di top moaket"
+        "GPT-4.1-mini Fine-tuned": "Deät hast di top moaket",
+        "GPT-5.4 RAG (Dict+LLM)": "En Buk fan de Lun, diar atemt."
       }
     },
     {
@@ -514,9 +560,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- or a word-by-word gloss.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Halao ik ben",
         "GPT-4.1 Fine-tuned (42K)": "Hallow ik ben",
-        "GPT-4.1-mini Fine-tuned": "Halsken ik ben"
+        "GPT-4.1-mini Fine-tuned": "Halsken ik ben",
+        "GPT-5.4 RAG (Dict+LLM)": "Wi freig üs iip juk."
       }
     },
     {
@@ -525,9 +572,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "De maan küsst de frouw.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "En beer, bitte",
         "GPT-4.1 Fine-tuned (42K)": "En beer bitte",
-        "GPT-4.1-mini Fine-tuned": "En biir bitte"
+        "GPT-4.1-mini Fine-tuned": "En biir bitte",
+        "GPT-5.4 RAG (Dict+LLM)": "Det stamt iáfens ni."
       }
     },
     {
@@ -536,9 +584,10 @@
       "word_count": 7,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik bün glikli.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Hool di no'ns gud fast, miin Djong.",
         "GPT-4.1 Fine-tuned (42K)": "Hool di man gud fas, miin Djong.",
-        "GPT-4.1-mini Fine-tuned": "Hool di man gud fas, miin Djong."
+        "GPT-4.1-mini Fine-tuned": "Hool di man gud fas, miin Djong.",
+        "GPT-5.4 RAG (Dict+LLM)": "Gud morn, Herbert."
       }
     },
     {
@@ -547,9 +596,10 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "En Buk fan de Lun, diar atemt.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Gu'n Dach, ho gungt 'et Djim?",
         "GPT-4.1 Fine-tuned (42K)": "Guud Dai, ho gungt et Djum?",
-        "GPT-4.1-mini Fine-tuned": "Gud Doag, ho gungt 'et djüm?"
+        "GPT-4.1-mini Fine-tuned": "Gud Doag, ho gungt 'et djüm?",
+        "GPT-5.4 RAG (Dict+LLM)": "Wel wi iip de Dün?"
       }
     },
     {
@@ -558,9 +608,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wi freig üs iip juk.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Hup fer 't Lun.",
         "GPT-4.1 Fine-tuned (42K)": "Reef fer di Insel.",
-        "GPT-4.1-mini Fine-tuned": "Rüüp fer 't Lun."
+        "GPT-4.1-mini Fine-tuned": "Rüüp fer 't Lun.",
+        "GPT-5.4 RAG (Dict+LLM)": "... an en Buddel ful Rum."
       }
     },
     {
@@ -569,9 +620,10 @@
       "word_count": 8,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Det stamt iáfens ni.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Danke, dat djüm uk Info-Posts en Lik du!",
         "GPT-4.1 Fine-tuned (42K)": "Dank, dat djüm uk Info-Posts en Like du!",
-        "GPT-4.1-mini Fine-tuned": "Danks, dat djüm uk Info-Posts en Like dait!"
+        "GPT-4.1-mini Fine-tuned": "Danks, dat djüm uk Info-Posts en Like dait!",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik fööl mi nik gud."
       }
     },
     {
@@ -580,9 +632,10 @@
       "word_count": 8,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Gud morn, Herbert.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wi set iip en Beenk bi de Bräi",
         "GPT-4.1 Fine-tuned (42K)": "Wi set iip en Beenk bi de Bräi",
-        "GPT-4.1-mini Fine-tuned": "Wi set iip en Beenk bi de Bräi"
+        "GPT-4.1-mini Fine-tuned": "Wi set iip en Beenk bi de Bräi",
+        "GPT-5.4 RAG (Dict+LLM)": "Min leevst Oisterfasker"
       }
     },
     {
@@ -591,9 +644,10 @@
       "word_count": 6,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wel wi iip de Dün?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wearom komt di Damper dolung ni?",
         "GPT-4.1 Fine-tuned (42K)": "Wearom komt di Damper dolung ni?",
-        "GPT-4.1-mini Fine-tuned": "Wearom komt di Damper dolung ni?"
+        "GPT-4.1-mini Fine-tuned": "Wearom komt di Damper dolung ni?",
+        "GPT-5.4 RAG (Dict+LLM)": "Deät paast Sven."
       }
     },
     {
@@ -602,9 +656,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "... an en Buddel ful Rum.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik gung henthüs.",
         "GPT-4.1 Fine-tuned (42K)": "Ik gung hentüs.",
-        "GPT-4.1-mini Fine-tuned": "Ik gung hentüs."
+        "GPT-4.1-mini Fine-tuned": "Ik gung hentüs.",
+        "GPT-5.4 RAG (Dict+LLM)": "Hallo, liiwe Sester!"
       }
     },
     {
@@ -613,9 +668,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik fööl mi nik gud.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Dolung es 'et roor Wedder",
         "GPT-4.1 Fine-tuned (42K)": "Dolung es roor Wedder",
-        "GPT-4.1-mini Fine-tuned": "Dolung es faini Wedder"
+        "GPT-4.1-mini Fine-tuned": "Dolung es faini Wedder",
+        "GPT-5.4 RAG (Dict+LLM)": "Deät hääst di super moaket."
       }
     },
     {
@@ -624,9 +680,10 @@
       "word_count": 4,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Min leevst Oisterfasker",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik mut hen uun Skin",
         "GPT-4.1 Fine-tuned (42K)": "Ik mut hen tu Klo",
-        "GPT-4.1-mini Fine-tuned": "Ik mut klooare"
+        "GPT-4.1-mini Fine-tuned": "Ik mut klooare",
+        "GPT-5.4 RAG (Dict+LLM)": "Hallo, ik bün"
       }
     },
     {
@@ -635,9 +692,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Deät paast Sven.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik snakke Halunder",
         "GPT-4.1 Fine-tuned (42K)": "Ik snakke Halunder",
-        "GPT-4.1-mini Fine-tuned": "Ik snakke halunder"
+        "GPT-4.1-mini Fine-tuned": "Ik snakke halunder",
+        "GPT-5.4 RAG (Dict+LLM)": "en bier, bitte"
       }
     },
     {
@@ -646,9 +704,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hallo, liiwe Sester!",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Di best doof",
         "GPT-4.1 Fine-tuned (42K)": "Di bes doof",
-        "GPT-4.1-mini Fine-tuned": "Di best dum"
+        "GPT-4.1-mini Fine-tuned": "Di best dum",
+        "GPT-5.4 RAG (Dict+LLM)": "Hool di man gud fääst, min Jung."
       }
     },
     {
@@ -657,9 +716,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Deät hääst di super moaket.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik gung hen",
         "GPT-4.1 Fine-tuned (42K)": "Ik gung i",
-        "GPT-4.1-mini Fine-tuned": "Ik gung i"
+        "GPT-4.1-mini Fine-tuned": "Ik gung i",
+        "GPT-5.4 RAG (Dict+LLM)": "Gudde Doag, hu geiht et di?"
       }
     },
     {
@@ -668,9 +728,10 @@
       "word_count": 3,
       "category": "medium",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hallo, ik bün",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik greete di",
         "GPT-4.1 Fine-tuned (42K)": "Ik groote di",
-        "GPT-4.1-mini Fine-tuned": "Ik greete di"
+        "GPT-4.1-mini Fine-tuned": "Ik greete di",
+        "GPT-5.4 RAG (Dict+LLM)": "Riep för de Lun."
       }
     },
     {
@@ -679,9 +740,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "en bier, bitte",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Oaber di bes groot en ik ben letj. Deät es woor.",
         "GPT-4.1 Fine-tuned (42K)": "Oaber di bes groot en ik ben letj. Deät stemt.",
-        "GPT-4.1-mini Fine-tuned": "Oaber di bes groot en ik ben letj. Deät stimmt."
+        "GPT-4.1-mini Fine-tuned": "Oaber di bes groot en ik ben letj. Deät stimmt.",
+        "GPT-5.4 RAG (Dict+LLM)": "Tonk, dåt ji uk Info-Posts en Like gebt!"
       }
     },
     {
@@ -690,9 +752,10 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hool di man gud fääst, min Jung.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Beseek is uun 'et Hus Marina's uun 'e Halunder Siidhoawen en si de Fertiins.",
         "GPT-4.1 Fine-tuned (42K)": "Besoch is uun Hüs Marinas uun'e Lunners Sidhoawen en fin deät Fulfalt.",
-        "GPT-4.1-mini Fine-tuned": "Kum en besoch üs bi Marinaas uun’t Hüs uun’t Halunder Südhoawen en entdecke de Fülle."
+        "GPT-4.1-mini Fine-tuned": "Kum en besoch üs bi Marinaas uun’t Hüs uun’t Halunder Südhoawen en entdecke de Fülle.",
+        "GPT-5.4 RAG (Dict+LLM)": "Wi sat iip en Bänk bi de Landungsbrüch."
       }
     },
     {
@@ -701,9 +764,10 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Gudde Doag, hu geiht et di?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Has 'e de Man sooit? De Man es groot. Es deät deät Huaas?",
         "GPT-4.1 Fine-tuned (42K)": "Has 'e deät Man sooit? De Man es groot. Es deät deät Huas",
-        "GPT-4.1-mini Fine-tuned": "Hast di deät di Man sooit? Di Man es groot. Es deät deät Huas"
+        "GPT-4.1-mini Fine-tuned": "Hast di deät di Man sooit? Di Man es groot. Es deät deät Huas",
+        "GPT-5.4 RAG (Dict+LLM)": "Warem kümmt de Dampfer düsdeeg ni?"
       }
     },
     {
@@ -712,9 +776,10 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Riep för de Lun.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Der Hauptzweck dieser Datenerfassung ist die Erstellung einer Langzeitstudie zu Helgoland, zu Europa und zum helgoländischen Gefühl der Unabhängigkeit.",
         "GPT-4.1 Fine-tuned (42K)": "De Hauptzweck fan deät Opluungen fan deät Data es deät Opmaken fan en Langtidsstudie tu deät Lun, tu Europa en tu deät Halunder Gefeel fan Unofhanklikkeit.",
-        "GPT-4.1-mini Fine-tuned": "De Hauptzweck deät hiir Datafang es en Langzeitstudie tu deät Lun, tu Europa en tu deät halunder Gefeel fan de Unabhängigkeit."
+        "GPT-4.1-mini Fine-tuned": "De Hauptzweck deät hiir Datafang es en Langzeitstudie tu deät Lun, tu Europa en tu deät halunder Gefeel fan de Unabhängigkeit.",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik gung hüs."
       }
     },
     {
@@ -723,9 +788,10 @@
       "word_count": 20,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Tonk, dåt ji uk Info-Posts en Like gebt!",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Deät hiir Projekt moaket en Rüm, wear ii Künner kopoawel nons ool Daibukker uuder Breow fan Booakem ferstun kan.",
         "GPT-4.1 Fine-tuned (42K)": "Deät hiir Proiekt moaket en Rüm, wear ii Künner ferlech nons ool Dai-boekken of Breaf fan Booakem ferstun kan.",
-        "GPT-4.1-mini Fine-tuned": "Deät hiir Projäkt skaffet en Rüm, wear üüs Künner kans do möchens iaan Dai nons ool Doagbüoker uuder Breäwer fan 'e Bitj em Sinn hen."
+        "GPT-4.1-mini Fine-tuned": "Deät hiir Projäkt skaffet en Rüm, wear üüs Künner kans do möchens iaan Dai nons ool Doagbüoker uuder Breäwer fan 'e Bitj em Sinn hen.",
+        "GPT-5.4 RAG (Dict+LLM)": "Diar as sköön Wedder."
       }
     },
     {
@@ -734,9 +800,10 @@
       "word_count": 42,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wi sat iip en Bänk bi de Landungsbrüch.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Miin Oot Bertha wuunt iip Bopperlun, bitu fan 'e Kark. Dji hat en faini Gooar en uk en Strunkürrow. Dear set dji dan ümmer med her letj wit Hin, Teddy. Sek en letj niidli. Ik mai ii Ooti do gearn liid, dji hat do fel tu ferhoaln.",
         "GPT-4.1 Fine-tuned (42K)": "Miin Ooti Bertha wuunt boppen, djin 'e Kark. Dji hat en faini Gooar en uk en Kureb. Dear set dji dan ümmer med her letj wit Hin, Teddy. Sek en söten. Ik hoa miin Ooti leow, dji hat do fel tu snakken.",
-        "GPT-4.1-mini Fine-tuned": "Ii Ooti Bertha wuunt bopen, bit uun 'e Kark. dji hat en faini Gooar en uk en Strun-kürow. dear set dji dan ümmer med her letj wit Hin, Teddy. sek en smok. ik leow ii Ooti, dji hat do fel tu ferhoaln"
+        "GPT-4.1-mini Fine-tuned": "Ii Ooti Bertha wuunt bopen, bit uun 'e Kark. dji hat en faini Gooar en uk en Strun-kürow. dear set dji dan ümmer med her letj wit Hin, Teddy. sek en smok. ik leow ii Ooti, dji hat do fel tu ferhoaln",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik mut iip Klo."
       }
     },
     {
@@ -745,9 +812,10 @@
       "word_count": 34,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Warem kümmt de Dampfer düsdeeg ni?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Dear wear nons en letj Djong, de hit Heäwelman. Noachtemens slüp hi uun en Trölkenbaad en uk noameddaimens, wan hi meed wear; wan hi oaber ni meed wear, dan mos hem siin...",
         "GPT-4.1 Fine-tuned (42K)": "Dear wear nons en letj Djong, de hit Häwelmann. En Noach slüp hi uun en Rollenbooat en uk en Noameddai, wan hi meed wear; wan hi oaber ni meed wear, dan mos siin .ut hem uun siin Rollenbooat hen en her rulle.",
-        "GPT-4.1-mini Fine-tuned": "Deät wear nons en letj Djong, de hit Heäwelman. de Noachens slüp hi uun en Reolerbaad en uk noameddai, wan hi meed wear; wan hi oaber ni meed wear, mus hem siin Moat"
+        "GPT-4.1-mini Fine-tuned": "Deät wear nons en letj Djong, de hit Heäwelman. de Noachens slüp hi uun en Reolerbaad en uk noameddai, wan hi meed wear; wan hi oaber ni meed wear, mus hem siin Moat",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik spreek Halunder."
       }
     },
     {
@@ -756,9 +824,10 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik gung hüs.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ferlech kans di deät no besenne... Obskoons, di bes no tu djong deartu.",
         "GPT-4.1 Fine-tuned (42K)": "Kans dji di dear no uun teenk... Obwool, dji bes no tu djong dearfer.",
-        "GPT-4.1-mini Fine-tuned": "Ferlech kans di di no dran erinnere... Oolung, di bes no tu djong deartu."
+        "GPT-4.1-mini Fine-tuned": "Ferlech kans di di no dran erinnere... Oolung, di bes no tu djong deartu.",
+        "GPT-5.4 RAG (Dict+LLM)": "Dü bes doof."
       }
     },
     {
@@ -767,9 +836,10 @@
       "word_count": 17,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Diar as sköön Wedder.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Gung an! Deät wart en Stoad! Fortsat soo! Deät socht gud it! Welk soo loachet, de komt tu Steed!",
         "GPT-4.1 Fine-tuned (42K)": "Iip gungt 'et! Deät wart roor! Fiider soo! Deät socht gud it! Wear soo loachelt, komt uun 'e Toal!",
-        "GPT-4.1-mini Fine-tuned": "Up gungs! deät wart toll! fiider soo! deät socht gud it! welk soo locht, komt hen uun't Doal"
+        "GPT-4.1-mini Fine-tuned": "Up gungs! deät wart toll! fiider soo! deät socht gud it! welk soo locht, komt hen uun't Doal",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik gung i"
       }
     },
     {
@@ -778,9 +848,10 @@
       "word_count": 11,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik mut iip Klo.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wel hi wel fel Djül has 'e en betjen wat iit?",
         "GPT-4.1 Fine-tuned (42K)": "Wel hi wel fel Djül hoa wulst en betjen wat iit?",
-        "GPT-4.1-mini Fine-tuned": "Weel hi wel fei Djül, hast di en betjen wat iit?"
+        "GPT-4.1-mini Fine-tuned": "Weel hi wel fei Djül, hast di en betjen wat iit?",
+        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also help check whether the German source is incomplete, since “Ich gehe i” looks cut off."
       }
     },
     {
@@ -789,9 +860,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik spreek Halunder.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Moin, bes 'e hongeri? Ik kiid en Ai keeke.",
         "GPT-4.1 Fine-tuned (42K)": "Mooin, has hongeri? Ik kiid en Ai keeke.",
-        "GPT-4.1-mini Fine-tuned": "Gud Mooin, has di Honger? Ik kiid en Ai kecke."
+        "GPT-4.1-mini Fine-tuned": "Gud Mooin, has di Honger? Ik kiid en Ai kecke.",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik gräit di."
       }
     },
     {
@@ -800,9 +872,10 @@
       "word_count": 26,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Dü bes doof.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Die für Palästinerangelegenheiten zuständige israelische Behörde Cogat hat hochrangigen Vertretern des Gesundheitswesens im Gazastreifen zugesichert, der Bevölkerung Unterbringungsorte im Süden des Territoriums zur Verfügung zu stellen.",
         "GPT-4.1 Fine-tuned (42K)": "Die für palästinensische Angelegenheiten zuständige israelische Behörde Cogat habe hochrangigen Vertretern des Gesundheitswesens im Gazastreifen zugesichert, der Bevölkerung Unterbringungsorte im Süden des Gebiets zur Verfügung zu stellen.",
-        "GPT-4.1-mini Fine-tuned": "De israelsche Behördi Cogat, de fer Palästinenserangeleägenheiten zuständig es, hat hoograngigen Vertretern fan 't Gesundheitswesen uun 'e Gazastreep tusoocht, de Bevolking bi deat Gebiet noa 't Süden hen tu bringen."
+        "GPT-4.1-mini Fine-tuned": "De israelsche Behördi Cogat, de fer Palästinenserangeleägenheiten zuständig es, hat hoograngigen Vertretern fan 't Gesundheitswesen uun 'e Gazastreep tusoocht, de Bevolking bi deat Gebiet noa 't Süden hen tu bringen.",
+        "GPT-5.4 RAG (Dict+LLM)": "Oober di büs grat an ik bün kleen. Deät stamt."
       }
     },
     {
@@ -811,9 +884,10 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik gung i",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Oori wat nais hiir. Bi soo fel Grootsoilers looant hem en Lustfoort.",
         "GPT-4.1 Fine-tuned (42K)": "Hekken wear hiir. Bi soo fel Grootsooilers lunt 'et en Itflocht.",
-        "GPT-4.1-mini Fine-tuned": "Oori wat nais hiir. Bi soo en Djül Grootseäilers loont en Itflüg."
+        "GPT-4.1-mini Fine-tuned": "Oori wat nais hiir. Bi soo en Djül Grootseäilers loont en Itflüg.",
+        "GPT-5.4 RAG (Dict+LLM)": "Besoaket üs iip't Hüs Marinas ön e Halunder Südhöb'n an dekt da Fölfålt."
       }
     },
     {
@@ -822,9 +896,10 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wan stuns 'e dollung ap? En wan gungs 'e weer hen tu Baad?",
         "GPT-4.1 Fine-tuned (42K)": "Wan best di dolung apstun'n? En wan gungs di weer tu Baad?",
-        "GPT-4.1-mini Fine-tuned": "Wan bes di dollung apstun'n? En wan gungs di weer tu Baad?"
+        "GPT-4.1-mini Fine-tuned": "Wan bes di dollung apstun'n? En wan gungs di weer tu Baad?",
+        "GPT-5.4 RAG (Dict+LLM)": "Häst di et dii Man said? Di Man as grat. As deät deät Hüs?"
       }
     },
     {
@@ -833,9 +908,10 @@
       "word_count": 24,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also help check whether the German source is incomplete, since “Ich gehe i” looks cut off.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik ben Fraidai med miin Hin noa Tres fürn en keem iaars djuster oawer noa 't Lun. Dear hat oori wat wiitet.",
         "GPT-4.1 Fine-tuned (42K)": "Ik ben Freedai med miin Hin toop med na Klef keem dan iaars djüster weer noa deät Lun. Deät hat oori fel skelt.",
-        "GPT-4.1-mini Fine-tuned": "Ik ben di Fridai toop med miin Hin noa Tres koart en küm dan iáárs di Donerdem noa' t Lun turäi. deät hat oori fei skölt."
+        "GPT-4.1-mini Fine-tuned": "Ik ben di Fridai toop med miin Hin noa Tres koart en küm dan iáárs di Donerdem noa' t Lun turäi. deät hat oori fei skölt.",
+        "GPT-5.4 RAG (Dict+LLM)": "De hööfttwek fon düs Datenopnöm as de Opmakong fon en langtidstudi tu Lun, tu Europa an tu det helgelunjer Gefööl fon Uunafhängikait."
       }
     },
     {
@@ -844,9 +920,10 @@
       "word_count": 11,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik gräit di.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Dear wür uk regionaal Ideen froaget oawer Autonomy en Onafhängigkeit.",
         "GPT-4.1 Fine-tuned (42K)": "Dear wür uk regionale Idoon feerfroaget, wat de Autonomie en Unofhanklikhait betref.",
-        "GPT-4.1-mini Fine-tuned": "Der wür uk regioonlige Ideen betjeäw Autonomie en Unabhängigkeit froaget."
+        "GPT-4.1-mini Fine-tuned": "Der wür uk regioonlige Ideen betjeäw Autonomie en Unabhängigkeit froaget.",
+        "GPT-5.4 RAG (Dict+LLM)": "Diat Projekt skep en Ruum, diar üüs Kinger vilecht iinjs Dii ool Dagböker of Breiwe faan't Dakbün verstaan kön."
       }
     },
     {
@@ -855,9 +932,10 @@
       "word_count": 12,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Oober di büs grat an ik bün kleen. Deät stamt.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Guten Morgen Birgit, ik heepe, dat di dolung en faini Dai hast.",
         "GPT-4.1 Fine-tuned (42K)": "Dji Moorn Birgit, ik heepe, dat di dolung en roor Dai has.",
-        "GPT-4.1-mini Fine-tuned": "Gud Mooin Birgit, ik heep, dat di dolung en faini Dai hast."
+        "GPT-4.1-mini Fine-tuned": "Gud Mooin Birgit, ik heep, dat di dolung en faini Dai hast.",
+        "GPT-5.4 RAG (Dict+LLM)": "Mi Oti Bertha woont iip't Boperlun, neeben de Kark. Hat hääd en sköön Goorn an uk en Strönkuarw. Deer sat hat dan altiid mäd hör letj wit Hund, Teddy. So en sööten. Ik lüüb mi Oti, hat hääd dook fül tu ferteljen."
       }
     },
     {
@@ -866,9 +944,10 @@
       "word_count": 21,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Besoaket üs iip't Hüs Marinas ön e Halunder Südhöb'n an dekt da Fölfålt.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Literatuur es uk Toostanden tu kan'n en tu benamen. Welk henluuket en swiiget, de lapt Gefoor, de Inwoorhait deät Wür tu snakken.",
         "GPT-4.1 Fine-tuned (42K)": "Literatur es uk, Tüschtans tu iiwern en tu benoamen. Welk hensat en swüget, lüp Gefar, de Unwoorhait deät Wür tu reden.",
-        "GPT-4.1-mini Fine-tuned": "Litteratuur bedent uk, Toostänn tu kennen en tu nam'n. Wel henluuket en swait, lapt gefoahr, de Inwaarehait deät Wür tu reden."
+        "GPT-4.1-mini Fine-tuned": "Litteratuur bedent uk, Toostänn tu kennen en tu nam'n. Wel henluuket en swait, lapt gefoahr, de Inwaarehait deät Wür tu reden.",
+        "GPT-5.4 RAG (Dict+LLM)": "Deät wear iááns en letj Jung, di hiet Häwelmann. Dees nachts sleip hi en en Rullenbäd, an uk dees nammeddags, wan hi mööd wear; man wan hi ni mööd wear, dan mutt siin ...ut"
       }
     },
     {
@@ -877,9 +956,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Häst di et dii Man said? Di Man as grat. As deät deät Hüs?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Willkommen zur Umfrage zur regionalen, nationalen und europäischen Identität des Helgolands",
         "GPT-4.1 Fine-tuned (42K)": "Wulkomn tu deät Froagen noa de regionale, nationale en europeske Identitet fan't Lun",
-        "GPT-4.1-mini Fine-tuned": "Wiilkommen tu de Omtroppung tu de regioonale, nationalen en europäisehen Identität Lun"
+        "GPT-4.1-mini Fine-tuned": "Wiilkommen tu de Omtroppung tu de regioonale, nationalen en europäisehen Identität Lun",
+        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also:"
       }
     },
     {
@@ -888,9 +968,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "De hööfttwek fon düs Datenopnöm as de Opmakong fon en langtidstudi tu Lun, tu Europa an tu det helgelunjer Gefööl fon Uunafhängikait.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Gud Mooem Burcu, ik heepe, dat di gud itslüppen best",
         "GPT-4.1 Fine-tuned (42K)": "Mooin Burcu, ik huppe dat du gud oawersleapen bist",
-        "GPT-4.1-mini Fine-tuned": "Gud Moorn Burcu, ik heep, dat di gud itsleapn bes"
+        "GPT-4.1-mini Fine-tuned": "Gud Moorn Burcu, ik heep, dat di gud itsleapn bes",
+        "GPT-5.4 RAG (Dict+LLM)": "- make it sound more idiomatic/literary in Halunder,"
       }
     },
     {
@@ -899,9 +980,10 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Diat Projekt skep en Ruum, diar üüs Kinger vilecht iinjs Dii ool Dagböker of Breiwe faan't Dakbün verstaan kön.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Per Definiitschoon kan Omfroagen alle Sorten fan Doaten iinhoa.",
         "GPT-4.1 Fine-tuned (42K)": "Per Definitionen kan Enfroagen ale Oorten fan Doaten iinnehool.",
-        "GPT-4.1-mini Fine-tuned": "Per Definition kan en Omtroppung alle Aarten van Daten beatholt."
+        "GPT-4.1-mini Fine-tuned": "Per Definition kan en Omtroppung alle Aarten van Daten beatholt.",
+        "GPT-5.4 RAG (Dict+LLM)": "- continue the unfinished sentence,"
       }
     },
     {
@@ -910,9 +992,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Mi Oti Bertha woont iip't Boperlun, neeben de Kark. Hat hääd en sköön Goorn an uk en Strönkuarw. Deer sat hat dan altiid mäd hör letj wit Hund, Teddy. So en sööten. Ik lüüb mi Oti, hat hääd dook fül tu ferteljen.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Oawer de öffentli Meenung es oaber man heel men bekant.",
         "GPT-4.1 Fine-tuned (42K)": "Fan de allgemeen Meenung es do man heel wenig bekant.",
-        "GPT-4.1-mini Fine-tuned": "Oawer de öffentli Meenung es do man heel menni bekant."
+        "GPT-4.1-mini Fine-tuned": "Oawer de öffentli Meenung es do man heel menni bekant.",
+        "GPT-5.4 RAG (Dict+LLM)": "- or provide a word-by-word gloss."
       }
     },
     {
@@ -921,9 +1004,10 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Deät wear iááns en letj Jung, di hiet Häwelmann. Dees nachts sleip hi en en Rullenbäd, an uk dees nammeddags, wan hi mööd wear; man wan hi ni mööd wear, dan mutt siin ...ut",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Hiir es deät uk dollung roor en senni. Mem en Paul sen uun Gooarbrai.",
         "GPT-4.1 Fine-tuned (42K)": "Hiir es et uk fain en sonni vandaach. Mem en Paul sen uun Gardenrausch.",
-        "GPT-4.1-mini Fine-tuned": "Hiir es et dollung uk faini en senni. Mem en Paul sen uun'e Gooar."
+        "GPT-4.1-mini Fine-tuned": "Hiir es et dollung uk faini en senni. Mem en Paul sen uun'e Gooar.",
+        "GPT-5.4 RAG (Dict+LLM)": "Flicht kånst di deer noch dran önnern... Ouwel, di bist noch tu jung deerför."
       }
     },
     {
@@ -932,9 +1016,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Djam uuder Dörten uun en strukturirt, medarker-moaket en meskiinleesboor Format.",
         "GPT-4.1 Fine-tuned (42K)": "Ihnen oder Dritten in einem strukturierten, gemeinsamen und maschinenlesbaren Format.",
-        "GPT-4.1-mini Fine-tuned": "Aan Dritten oder an Dritten uun en strukturörten, geemeenschopp en maskiinleesbaar Format."
+        "GPT-4.1-mini Fine-tuned": "Aan Dritten oder an Dritten uun en strukturörten, geemeenschopp en maskiinleesbaar Format.",
+        "GPT-5.4 RAG (Dict+LLM)": "Iip geit’s! Deät wart toll! So wider! Deät süht gud üt! Huu so lacht, kümmt iin’t Tial!"
       }
     },
     {
@@ -943,9 +1028,10 @@
       "word_count": 13,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "If you want, I can also:",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Di iindrain Adres es ni korrekt. Verifiziere nons diin Iinpoost feer Tipfeälers.",
         "GPT-4.1 Fine-tuned (42K)": "Deät iinmoaket Adres es ni korrekt. Bitte kontroliere Ihre Eingabe auf Tippfehler.",
-        "GPT-4.1-mini Fine-tuned": "Di iinbent Adres es ni korrekt. Bitte übewerprüfe Si Ihre Eingabe auf Tippfehler."
+        "GPT-4.1-mini Fine-tuned": "Di iinbent Adres es ni korrekt. Bitte übewerprüfe Si Ihre Eingabe auf Tippfehler.",
+        "GPT-5.4 RAG (Dict+LLM)": "Wel hi wel fül Jül haa, hääst di en betjen wat tu iiten?"
       }
     },
     {
@@ -954,9 +1040,10 @@
       "word_count": 29,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- make it sound more idiomatic/literary in Halunder,",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Halunder es ni blooat en Spreek, uk tulikkemens Kültür en Identiteit fan en Djooarhonnerten ool Gemeenskap. En uurs es alle uur Friisk Dialekten es de Halunder realek en ooin Spreek.",
         "GPT-4.1 Fine-tuned (42K)": "Halunder es ni blooat en Spreek, blooat uk Kulturaat en Identitet fan en gurt ool Gemiinskup. En uurs, es alle uurs Friisk Dialekter es Halunder rech en ooin Spreek.",
-        "GPT-4.1-mini Fine-tuned": "Halunder es ni blooat en Spreek, man medtijds uk en Kultur en Identität fan en Djooarhonnerten ool Gemeinschaft. En uurs, es alle uurn Friisk Diialekten, es Halunder do oawerkloats en ooinstännige Spreek."
+        "GPT-4.1-mini Fine-tuned": "Halunder es ni blooat en Spreek, man medtijds uk en Kultur en Identität fan en Djooarhonnerten ool Gemeinschaft. En uurs, es alle uurn Friisk Diialekten, es Halunder do oawerkloats en ooinstännige Spreek.",
+        "GPT-5.4 RAG (Dict+LLM)": "Gud morn, hest di hunger? Ik küd en ai köke."
       }
     },
     {
@@ -965,9 +1052,10 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- continue the unfinished sentence,",
+        "NLLB-1.3B DEU (BLEU 44.2)": "En iip Lunn uun ale iaars dai uune nai djooar Halunder gung to wensken",
         "GPT-4.1 Fine-tuned (42K)": "En iip Lunn uun alle iaars dai uune nai djooar Halunder gung to wensken",
-        "GPT-4.1-mini Fine-tuned": "En iip Lun uun alle iaarsdai uune nai djoor Halunder gung to wensken"
+        "GPT-4.1-mini Fine-tuned": "En iip Lun uun alle iaarsdai uune nai djoor Halunder gung to wensken",
+        "GPT-5.4 RAG (Dict+LLM)": "De israälsk beheurde Cogat, diar för palästinensersaken tostaunig as, skal höögrangig fertreder fan't gesundhaidswesen iip de Gazastreipen tosegged haa, det de befolkang ünnerbringensstääd im süden fan't gebia to ferföögang steld wurd."
       }
     },
     {
@@ -976,9 +1064,10 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "- or provide a word-by-word gloss.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Wi froie is oori, dat ii Pos bi Djüm uunkümmen es. Hartlek Greet- nissen weer noa Djüm en noa Schwerin.",
         "GPT-4.1 Fine-tuned (42K)": "Wi froie is machti, dat ii Pos bi Djüm uunkümmen es. Hartlik Greeten turäi uun Djüm en noa Schwerin.",
-        "GPT-4.1-mini Fine-tuned": "Wi froie is oori, dat üüs Post bi Djim kümmen es. Hartelk Greeten turäi noa Djim en noa Schwerin."
+        "GPT-4.1-mini Fine-tuned": "Wi froie is oori, dat üüs Post bi Djim kümmen es. Hartelk Greeten turäi noa Djim en noa Schwerin.",
+        "GPT-5.4 RAG (Dict+LLM)": "Hiar as düchtig wat las. Bi so fel grat seiler lunt sik en ütflucht."
       }
     },
     {
@@ -987,9 +1076,10 @@
       "word_count": 14,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Flicht kånst di deer noch dran önnern... Ouwel, di bist noch tu jung deerför.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Deät leas kiid ik sogoor sönner Oawersetter ferstun. Soo swoor es Halunder goor ni.",
         "GPT-4.1 Fine-tuned (42K)": "Deät leäs kiid ik man uk sönner en Öwersetter ferstun. Soo swoor es Halunder goorni.",
-        "GPT-4.1-mini Fine-tuned": "Deät leäs kiid ik sogar sönner Oawersattoors ferstun. Soo gefel es Halunder goor ni."
+        "GPT-4.1-mini Fine-tuned": "Deät leäs kiid ik sogar sönner Oawersattoors ferstun. Soo gefel es Halunder goor ni.",
+        "GPT-5.4 RAG (Dict+LLM)": "Wann büs di hääi iipstian? En wann gung di weer en de Bäd?"
       }
     },
     {
@@ -998,9 +1088,10 @@
       "word_count": 22,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Iip geit’s! Deät wart toll! So wider! Deät süht gud üt! Huu so lacht, kümmt iin’t Tial!",
+        "NLLB-1.3B DEU (BLEU 44.2)": "As Serhii K. Fraidai noa de Haftrichter uun 't Gerech uun Bologna brocht wür, hat hi Handbochen uun en es fan tree Schandarmen begeleitet würn.",
         "GPT-4.1 Fine-tuned (42K)": "As Serhii K. en Freddai noa de Haftrichter uun 'e Gerecht uun Bologna brocht wür, hid hi Handbooin om en wür fan tree Politseien begleet.",
-        "GPT-4.1-mini Fine-tuned": "Iar Serhii K. uf en Fraidais noa de Haftrichters uun't Ge- recht tu Bolo- gna brocht wür, druug hi Hünschekeln en wür med tree Pli- seeten begleet."
+        "GPT-4.1-mini Fine-tuned": "Iar Serhii K. uf en Fraidais noa de Haftrichters uun't Ge- recht tu Bolo- gna brocht wür, druug hi Hünschekeln en wür med tree Pli- seeten begleet.",
+        "GPT-5.4 RAG (Dict+LLM)": "Ik bin am Friidag tuhuup mäd min Hunj önj Cuxhoom feren an keem dan ers gistern weer turag iip Lun. Det hat arig föl skükelt."
       }
     },
     {
@@ -1009,9 +1100,10 @@
       "word_count": 21,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wel hi wel fül Jül haa, hääst di en betjen wat tu iiten?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ruhe! Mit diesem Schluch eröffne ich den heutigen Stiftungskommers anlässlich der Gründung der Ferialis Helgolandia vor ziemlich genau einem Jahr!",
         "GPT-4.1 Fine-tuned (42K)": "Stil! Med deät Sluch iip moake ik de hiir Stiftungs-Kommers ap, uun Anleäsung fan de Grinung fan de Ferialis Helgolandia feer rech soo en Djooar!",
-        "GPT-4.1-mini Fine-tuned": "Rauwer! Mit diesem Schluch eröffne ich den heutigen Stiftungskommers anlässlich der Gründung der Ferialis Helgolandia vor ziemlich genau ei em Jahr!"
+        "GPT-4.1-mini Fine-tuned": "Rauwer! Mit diesem Schluch eröffne ich den heutigen Stiftungskommers anlässlich der Gründung der Ferialis Helgolandia vor ziemlich genau ei em Jahr!",
+        "GPT-5.4 RAG (Dict+LLM)": "Uk werd uk regionoole Ideeën önjtoon, wat det Autonomie an Unafhängikhaad angeit."
       }
     },
     {
@@ -1020,9 +1112,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Gud morn, hest di hunger? Ik küd en ai köke.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Sni falt loangsoam, wan di Win om di Hiisder hiilt.",
         "GPT-4.1 Fine-tuned (42K)": "Sni falt laati, wan di Win hoilt om di Hiisder.",
-        "GPT-4.1-mini Fine-tuned": "Sni falt oawerlang, wan de Win om 'e Hüsder hülpt."
+        "GPT-4.1-mini Fine-tuned": "Sni falt oawerlang, wan de Win om 'e Hüsder hülpt.",
+        "GPT-5.4 RAG (Dict+LLM)": "Gud morn Birgit, ik hoop, dat di düsdi en sköönen dai hääst."
       }
     },
     {
@@ -1031,9 +1124,10 @@
       "word_count": 23,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "De israälsk beheurde Cogat, diar för palästinensersaken tostaunig as, skal höögrangig fertreder fan't gesundhaidswesen iip de Gazastreipen tosegged haa, det de befolkang ünnerbringensstääd im süden fan't gebia to ferföögang steld wurd.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Liiwste Foamel, liiwer Swiigerseen, wi wenske djüm Liuw en Glik fer djerrem medarker Tukumf. Alle Tid'n en rum Hart en kloor Kimen",
         "GPT-4.1 Fine-tuned (42K)": "Liibste Dochter, liiben Swiegersuun, wi wenske djim Liuw en Glik fer djim herrem gemeenskem Tukoft. Alle Tid en groot Hart en en kloor Horisent",
-        "GPT-4.1-mini Fine-tuned": "Liibst Dochter, liib Swiversoon, wi wens djim Liib en Glik feer djerem maatsamen Futuur. Ale Tid en fiir Hart en en kloar Kümmen"
+        "GPT-4.1-mini Fine-tuned": "Liibst Dochter, liib Swiversoon, wi wens djim Liib en Glik feer djerem maatsamen Futuur. Ale Tid en fiir Hart en en kloar Kümmen",
+        "GPT-5.4 RAG (Dict+LLM)": "Literatuur bedjut uk, Tustaand tu erken an tu benem. Huu deer iip tu siit an swiget, lupt Gefoor, dåt a Unwaarhaid dåt Uur tu reden."
       }
     },
     {
@@ -1042,9 +1136,10 @@
       "word_count": 19,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Hiar as düchtig wat las. Bi so fel grat seiler lunt sik en ütflucht.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Naimoals hoa Ooinen fan de fan 'e Hamas wechtrakket Geislnn uun Tel Aviv demonstrirt - djup skokket fan nai Videos.",
         "GPT-4.1 Fine-tuned (42K)": "Weer hoa Angehörigen fan de Geiseln, dear fan de Hamas ferslept würn sen, uun Tel Aviv demonstrauert - djüp schokkeart fan nai Videos.",
-        "GPT-4.1-mini Fine-tuned": "Weer hoa Ooinen fan deät fan de Hamas wechbrocht Geiseln uun Tel Aviv deemo-nstrert - djüp skokket fan nai Videos."
+        "GPT-4.1-mini Fine-tuned": "Weer hoa Ooinen fan deät fan de Hamas wechbrocht Geiseln uun Tel Aviv deemo-nstrert - djüp skokket fan nai Videos.",
+        "GPT-5.4 RAG (Dict+LLM)": "Welkimen tu det Ümfraag faan det regionoal, natjonaal an euroopisk Identiteet faan Lun"
       }
     },
     {
@@ -1053,9 +1148,10 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Wann büs di hääi iipstian? En wann gung di weer en de Bäd?",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik nem de tau Böddeler en dan no Sokkersiirup",
         "GPT-4.1 Fine-tuned (42K)": "Ik nem de tau Böddeler en dan no Sokersearup",
-        "GPT-4.1-mini Fine-tuned": "Ik nem di tau Böddeler en dan no sokker-siirüp."
+        "GPT-4.1-mini Fine-tuned": "Ik nem di tau Böddeler en dan no sokker-siirüp.",
+        "GPT-5.4 RAG (Dict+LLM)": "Gud morn Burcu, ik hoop, deät dü gud uutsleipen hääst."
       }
     },
     {
@@ -1064,9 +1160,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Ik bin am Friidag tuhuup mäd min Hunj önj Cuxhoom feren an keem dan ers gistern weer turag iip Lun. Det hat arig föl skükelt.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Iaan tau tree schtjuur fiuw ses seeben ach neägen tain",
         "GPT-4.1 Fine-tuned (42K)": "Iaan tau tree schtjuur fiuw sös seeben ach neägen tain",
-        "GPT-4.1-mini Fine-tuned": "Iaan tau tree schtjuur fiuw söss söowen ach neäg tiin"
+        "GPT-4.1-mini Fine-tuned": "Iaan tau tree schtjuur fiuw söss söowen ach neäg tiin",
+        "GPT-5.4 RAG (Dict+LLM)": "Per Definition kön Umfragen aal Arten fon Daten enthal."
       }
     },
     {
@@ -1075,9 +1172,10 @@
       "word_count": 18,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Uk werd uk regionoole Ideeën önjtoon, wat det Autonomie an Unafhängikhaad angeit.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Green es deät Lun, rooad es di Kant, wit es di Sun, deät sen di Farowen fan't Lun",
         "GPT-4.1 Fine-tuned (42K)": "Grean es deät Lun, rooad es de Kant, wit es deät Sun, deät sen de Kleer fan't Lun",
-        "GPT-4.1-mini Fine-tuned": "Groon es di Lun, rooad es di Kant, wit es di Sun, deät sen di Kleern fan’t Lun"
+        "GPT-4.1-mini Fine-tuned": "Groon es di Lun, rooad es di Kant, wit es di Sun, deät sen di Kleern fan’t Lun",
+        "GPT-5.4 RAG (Dict+LLM)": "Öwer de apenbare Menang as ouers bluas heel wenj bekäänd."
       }
     },
     {
@@ -1086,9 +1184,10 @@
       "word_count": 9,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Gud morn Birgit, ik hoop, dat di düsdi en sköönen dai hääst.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Gud Noacht miin Liibster, sleap gud en dröm swet",
         "GPT-4.1 Fine-tuned (42K)": "Gud nacht miin Liibster, sluap gud en drom söt",
-        "GPT-4.1-mini Fine-tuned": "Gud noach miin Liuwsten, sleap gud en dreeem swet"
+        "GPT-4.1-mini Fine-tuned": "Gud noach miin Liuwsten, sleap gud en dreeem swet",
+        "GPT-5.4 RAG (Dict+LLM)": "Hiar as et deei uk sköön an sünnig. Mam an Paul san iip't Goornrausch."
       }
     },
     {
@@ -1097,9 +1196,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Literatuur bedjut uk, Tustaand tu erken an tu benem. Huu deer iip tu siit an swiget, lupt Gefoor, dåt a Unwaarhaid dåt Uur tu reden.",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Ik hoa mi en faini Iir kaft, en guln Rolex...",
         "GPT-4.1 Fine-tuned (42K)": "Ik hoa mi en roor Klok kaft, en guln Rolex...",
-        "GPT-4.1-mini Fine-tuned": "Ik hoa mi en faini Klok kaft, en guln Rolex..."
+        "GPT-4.1-mini Fine-tuned": "Ik hoa mi en faini Klok kaft, en guln Rolex...",
+        "GPT-5.4 RAG (Dict+LLM)": "Djam of uurde in en struktureerd, gemainsom an masjiinleesboor formaat."
       }
     },
     {
@@ -1108,9 +1208,10 @@
       "word_count": 10,
       "category": "long",
       "translations": {
-        "GPT-5.4 RAG (Dict+LLM)": "Welkimen tu det Ümfraag faan det regionoal, natjonaal an euroopisk Identiteet faan Lun",
+        "NLLB-1.3B DEU (BLEU 44.2)": "Komm lat is no'ns en Biir drink en drink",
         "GPT-4.1 Fine-tuned (42K)": "Keem lat is nons en beer drink en noabert",
-        "GPT-4.1-mini Fine-tuned": "Kum lat is no'ns en biir drink en Noachtert iit"
+        "GPT-4.1-mini Fine-tuned": "Kum lat is no'ns en biir drink en Noachtert iit",
+        "GPT-5.4 RAG (Dict+LLM)": "De iinjääwen Adres es ni korrekt. Bleev kontrolier dü din Iinjääw ap Tippfääl."
       }
     }
   ]
